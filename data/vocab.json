@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pt-0001",
+    "word": "arrepender-se de",
+    "pos": "v.",
+    "zh": "后悔"
+  },
+  {
+    "id": "pt-0002",
+    "word": "queixar-se de",
+    "pos": "v.",
+    "zh": "抱怨"
+  },
+  {
+    "id": "pt-0003",
+    "word": "zangar-se com",
+    "pos": "v.",
+    "zh": "生气"
+  },
+  {
+    "id": "pt-0004",
+    "word": "gabar-se de",
+    "pos": "v.",
+    "zh": "自夸"
+  },
+  {
+    "id": "pt-0005",
+    "word": "orgulhar-se de",
+    "pos": "v.",
+    "zh": "以…为傲"
+  },
+  {
+    "id": "pt-0006",
+    "word": "envergonhar-se de",
+    "pos": "v.",
+    "zh": "羞于"
+  },
+  {
+    "id": "pt-0007",
+    "word": "compadecer-se de",
+    "pos": "v.",
+    "zh": "怜悯"
+  },
+  {
+    "id": "pt-0008",
+    "word": "atrever-se a",
+    "pos": "v.",
+    "zh": "敢于"
+  },
+  {
+    "id": "pt-0009",
+    "word": "abster-se de",
+    "pos": "v.",
+    "zh": "弃权"
+  },
+  {
+    "id": "pt-0010",
+    "word": "esquecer-se de",
+    "pos": "v.",
+    "zh": "忘记"
+  },
+  {
+    "id": "pt-0011",
+    "word": "aperceber-se de",
+    "pos": "v.",
+    "zh": "发觉"
+  },
+  {
+    "id": "pt-0012",
+    "word": "lembrar-se de",
+    "pos": "v.",
+    "zh": "记得"
+  },
+  {
+    "id": "pt-0013",
+    "word": "rir-se de",
+    "pos": "v.",
+    "zh": "嘲笑"
+  },
+  {
+    "id": "pt-0014",
+    "word": "agradar",
+    "pos": "v.",
+    "zh": "使…喜欢"
+  },
+  {
+    "id": "pt-0015",
+    "word": "pertencer",
+    "pos": "v.",
+    "zh": "属于"
+  },
+  {
+    "id": "pt-0016",
+    "word": "suceder",
+    "pos": "v.",
+    "zh": "发生"
+  },
+  {
+    "id": "pt-0017",
+    "word": "falhar",
+    "pos": "v.",
+    "zh": "未成功"
+  },
+  {
+    "id": "pt-0018",
+    "word": "escapar",
+    "pos": "v.",
+    "zh": "逃脱"
+  },
+  {
+    "id": "pt-0019",
+    "word": "apetece-me",
+    "pos": "v.",
+    "zh": "我想要"
+  },
+  {
+    "id": "pt-0020",
+    "word": "custar a",
+    "pos": "v.",
+    "zh": "对…来说困难"
+  },
+  {
+    "id": "pt-0021",
+    "word": "contentar-se com",
+    "pos": "v.",
+    "zh": "满足于"
+  },
+  {
+    "id": "pt-0022",
+    "word": "conformar-se com",
+    "pos": "v.",
+    "zh": "安于"
+  },
+  {
+    "id": "pt-0023",
+    "word": "importar-se com",
+    "pos": "v.",
+    "zh": "在意"
+  },
+  {
+    "id": "pt-0024",
+    "word": "casar com",
+    "pos": "v.",
+    "zh": "和…结婚"
+  },
+  {
+    "id": "pt-0025",
+    "word": "sonhar com",
+    "pos": "v.",
+    "zh": "梦见"
+  },
+  {
+    "id": "pt-0026",
+    "word": "dispor de",
+    "pos": "v.",
+    "zh": "拥有"
+  },
+  {
+    "id": "pt-0027",
+    "word": "duvidar de",
+    "pos": "v.",
+    "zh": "怀疑"
+  },
+  {
+    "id": "pt-0028",
+    "word": "necessitar de",
+    "pos": "v.",
+    "zh": "需要"
+  },
+  {
+    "id": "pt-0029",
+    "word": "desistir de",
+    "pos": "v.",
+    "zh": "放弃"
+  },
+  {
+    "id": "pt-0030",
+    "word": "consistir em",
+    "pos": "v.",
+    "zh": "在于"
+  },
+  {
+    "id": "pt-0031",
+    "word": "insistir em",
+    "pos": "v.",
+    "zh": "坚持"
+  },
+  {
+    "id": "pt-0032",
+    "word": "pensar em",
+    "pos": "v.",
+    "zh": "想起"
+  },
+  {
+    "id": "pt-0033",
+    "word": "basear-se em",
+    "pos": "v.",
+    "zh": "基于"
+  },
+  {
+    "id": "pt-0034",
+    "word": "viver de",
+    "pos": "v.",
+    "zh": "靠…生活"
+  },
+  {
+    "id": "pt-0035",
+    "word": "prescindir de",
+    "pos": "v.",
+    "zh": "缺少"
+  },
+  {
+    "id": "pt-0036",
+    "word": "gostar de",
+    "pos": "v.",
+    "zh": "喜欢"
+  },
+  {
+    "id": "pt-0037",
+    "word": "levar",
+    "pos": "v.",
+    "zh": "拿去"
+  },
+  {
+    "id": "pt-0038",
+    "word": "trazer",
+    "pos": "v.",
+    "zh": "带来"
+  },
+  {
+    "id": "pt-0039",
+    "word": "crer",
+    "pos": "v.",
+    "zh": "相信"
+  },
+  {
+    "id": "pt-0040",
+    "word": "medir",
+    "pos": "v.",
+    "zh": "测量"
+  },
+  {
+    "id": "pt-0041",
+    "word": "sorrir",
+    "pos": "v.",
+    "zh": "微笑"
+  },
+  {
+    "id": "pt-0042",
+    "word": "sentir",
+    "pos": "v.",
+    "zh": "感觉"
+  },
+  {
+    "id": "pt-0043",
+    "word": "preferir",
+    "pos": "v.",
+    "zh": "偏爱"
+  },
+  {
+    "id": "pt-0044",
+    "word": "vestir",
+    "pos": "v.",
+    "zh": "穿衣服"
+  },
+  {
+    "id": "pt-0045",
+    "word": "petiscar",
+    "pos": "v.",
+    "zh": "吃零食"
+  },
+  {
+    "id": "pt-0046",
+    "word": "mixar",
+    "pos": "v.",
+    "zh": "混合"
+  },
+  {
+    "id": "pt-0047",
+    "word": "somar",
+    "pos": "v.",
+    "zh": "加"
+  },
+  {
+    "id": "pt-0048",
+    "word": "subtrair",
+    "pos": "v.",
+    "zh": "减去"
+  },
+  {
+    "id": "pt-0049",
+    "word": "multiplicar",
+    "pos": "v.",
+    "zh": "乘"
+  },
+  {
+    "id": "pt-0050",
+    "word": "dividir",
+    "pos": "v.",
+    "zh": "除"
+  }
+]
