@@ -298,5 +298,911 @@
     "word": "dividir",
     "pos": "v.",
     "zh": "除"
+  },
+  {
+    "id": "pt-0051",
+    "word": "desmaiar",
+    "pos": "v.",
+    "zh": "晕倒"
+  },
+  {
+    "id": "pt-0052",
+    "word": "descarregar",
+    "pos": "v.",
+    "zh": "下载"
+  },
+  {
+    "id": "pt-0053",
+    "word": "registar",
+    "pos": "v.",
+    "zh": "注册"
+  },
+  {
+    "id": "pt-0054",
+    "word": "resvalar",
+    "pos": "v.",
+    "zh": "滑倒"
+  },
+  {
+    "id": "pt-0055",
+    "word": "saldar",
+    "pos": "v.",
+    "zh": "结清"
+  },
+  {
+    "id": "pt-0056",
+    "word": "salgar",
+    "pos": "v.",
+    "zh": "加盐"
+  },
+  {
+    "id": "pt-0057",
+    "word": "embrulhar",
+    "pos": "v.",
+    "zh": "打包"
+  },
+  {
+    "id": "pt-0058",
+    "word": "mergulhar",
+    "pos": "v.",
+    "zh": "潜水"
+  },
+  {
+    "id": "pt-0059",
+    "word": "apanhar",
+    "pos": "v.",
+    "zh": "接；坐；捡；遭受"
+  },
+  {
+    "id": "pt-0060",
+    "word": "guiar",
+    "pos": "v.",
+    "zh": "引导；驾驶"
+  },
+  {
+    "id": "pt-0061",
+    "word": "participar",
+    "pos": "v.",
+    "zh": "参与"
+  },
+  {
+    "id": "pt-0062",
+    "word": "amassar",
+    "pos": "v.",
+    "zh": "揉面"
+  },
+  {
+    "id": "pt-0063",
+    "word": "passar",
+    "pos": "v.",
+    "zh": "涂抹；递给；经过"
+  },
+  {
+    "id": "pt-0064",
+    "word": "morrer",
+    "pos": "v.",
+    "zh": "死"
+  },
+  {
+    "id": "pt-0065",
+    "word": "dourar",
+    "pos": "v.",
+    "zh": "煎至金黄"
+  },
+  {
+    "id": "pt-0066",
+    "word": "ferver",
+    "pos": "v.",
+    "zh": "煮沸"
+  },
+  {
+    "id": "pt-0067",
+    "word": "cozer",
+    "pos": "v.",
+    "zh": "煮；烹饪；缝"
+  },
+  {
+    "id": "pt-0068",
+    "word": "entornar",
+    "pos": "v.",
+    "zh": "打翻"
+  },
+  {
+    "id": "pt-0069",
+    "word": "bater",
+    "pos": "v.",
+    "zh": "打；敲；搅拌"
+  },
+  {
+    "id": "pt-0070",
+    "word": "descascar",
+    "pos": "v.",
+    "zh": "剥皮"
+  },
+  {
+    "id": "pt-0071",
+    "word": "picar",
+    "pos": "v.",
+    "zh": "切碎；叮；扎"
+  },
+  {
+    "id": "pt-0072",
+    "word": "temperar",
+    "pos": "v.",
+    "zh": "调味"
+  },
+  {
+    "id": "pt-0073",
+    "word": "deitar",
+    "pos": "v.",
+    "zh": "放；躺下"
+  },
+  {
+    "id": "pt-0074",
+    "word": "mexer",
+    "pos": "v.",
+    "zh": "搅拌；移动"
+  },
+  {
+    "id": "pt-0075",
+    "word": "enfeitar",
+    "pos": "v.",
+    "zh": "装饰"
+  },
+  {
+    "id": "pt-0076",
+    "word": "espremer",
+    "pos": "v.",
+    "zh": "挤压"
+  },
+  {
+    "id": "pt-0077",
+    "word": "soprar",
+    "pos": "v.",
+    "zh": "吹"
+  },
+  {
+    "id": "pt-0078",
+    "word": "tapar",
+    "pos": "v.",
+    "zh": "盖住；堵住"
+  },
+  {
+    "id": "pt-0079",
+    "word": "desligar",
+    "pos": "v.",
+    "zh": "关闭"
+  },
+  {
+    "id": "pt-0080",
+    "word": "decidir",
+    "pos": "v.",
+    "zh": "决定"
+  },
+  {
+    "id": "pt-0081",
+    "word": "desalojar",
+    "pos": "v.",
+    "zh": "使撤离"
+  },
+  {
+    "id": "pt-0082",
+    "word": "decifrar",
+    "pos": "v.",
+    "zh": "弄懂"
+  },
+  {
+    "id": "pt-0083",
+    "word": "aviar",
+    "pos": "v.",
+    "zh": "抓紧给我送来"
+  },
+  {
+    "id": "pt-0084",
+    "word": "saborear",
+    "pos": "v.",
+    "zh": "品尝"
+  },
+  {
+    "id": "pt-0085",
+    "word": "saboreio",
+    "pos": "n.m.",
+    "zh": "品尝"
+  },
+  {
+    "id": "pt-0086",
+    "word": "encomendar",
+    "pos": "v.",
+    "zh": "点（菜）；订购"
+  },
+  {
+    "id": "pt-0087",
+    "word": "almoçar",
+    "pos": "v.",
+    "zh": "吃午餐"
+  },
+  {
+    "id": "pt-0088",
+    "word": "jantar",
+    "pos": "v.",
+    "zh": "吃晚餐"
+  },
+  {
+    "id": "pt-0089",
+    "word": "cheirar",
+    "pos": "v.",
+    "zh": "闻起来；嗅"
+  },
+  {
+    "id": "pt-0090",
+    "word": "petiscar",
+    "pos": "v.",
+    "zh": "吃零食"
+  },
+  {
+    "id": "pt-0091",
+    "word": "comer fora",
+    "pos": "v.",
+    "zh": "外食"
+  },
+  {
+    "id": "pt-0092",
+    "word": "estar cheio",
+    "pos": "adj.",
+    "zh": "饱了"
+  },
+  {
+    "id": "pt-0093",
+    "word": "deitar fora",
+    "pos": "v.",
+    "zh": "扔掉"
+  },
+  {
+    "id": "pt-0094",
+    "word": "desfazer",
+    "pos": "v.",
+    "zh": "融化"
+  },
+  {
+    "id": "pt-0095",
+    "word": "raspar",
+    "pos": "v.",
+    "zh": "刮；擦"
+  },
+  {
+    "id": "pt-0096",
+    "word": "correr",
+    "pos": "v.",
+    "zh": "跑"
+  },
+  {
+    "id": "pt-0097",
+    "word": "descer",
+    "pos": "v.",
+    "zh": "下降；下车"
+  },
+  {
+    "id": "pt-0098",
+    "word": "colidir",
+    "pos": "v.",
+    "zh": "相撞"
+  },
+  {
+    "id": "pt-0099",
+    "word": "voltar",
+    "pos": "v.",
+    "zh": "返回"
+  },
+  {
+    "id": "pt-0100",
+    "word": "espirrar",
+    "pos": "v.",
+    "zh": "打喷嚏"
+  },
+  {
+    "id": "pt-0101",
+    "word": "arranjar",
+    "pos": "v.",
+    "zh": "修理；安排"
+  },
+  {
+    "id": "pt-0102",
+    "word": "pingar",
+    "pos": "v.",
+    "zh": "流"
+  },
+  {
+    "id": "pt-0103",
+    "word": "prescrever",
+    "pos": "v.",
+    "zh": "开药"
+  },
+  {
+    "id": "pt-0104",
+    "word": "fiar",
+    "pos": "v.",
+    "zh": "赊账"
+  },
+  {
+    "id": "pt-0105",
+    "word": "festejar",
+    "pos": "v.",
+    "zh": "庆祝；开派对"
+  },
+  {
+    "id": "pt-0106",
+    "word": "esmagar",
+    "pos": "v.",
+    "zh": "挤"
+  },
+  {
+    "id": "pt-0107",
+    "word": "roubar",
+    "pos": "v.",
+    "zh": "偷窃"
+  },
+  {
+    "id": "pt-0108",
+    "word": "berrar",
+    "pos": "v.",
+    "zh": "喊叫"
+  },
+  {
+    "id": "pt-0109",
+    "word": "regatear",
+    "pos": "v.",
+    "zh": "讨价还价"
+  },
+  {
+    "id": "pt-0110",
+    "word": "fechar",
+    "pos": "v.",
+    "zh": "关闭"
+  },
+  {
+    "id": "pt-0111",
+    "word": "encerrar",
+    "pos": "v.",
+    "zh": "结束；关闭"
+  },
+  {
+    "id": "pt-0112",
+    "word": "sentar-se",
+    "pos": "v.",
+    "zh": "坐下"
+  },
+  {
+    "id": "pt-0113",
+    "word": "levantar-se",
+    "pos": "v.",
+    "zh": "站起来"
+  },
+  {
+    "id": "pt-0114",
+    "word": "despedir-se",
+    "pos": "v.",
+    "zh": "告别"
+  },
+  {
+    "id": "pt-0115",
+    "word": "acalmar",
+    "pos": "v.",
+    "zh": "使平静"
+  },
+  {
+    "id": "pt-0116",
+    "word": "caber",
+    "pos": "v.",
+    "zh": "容纳；适合"
+  },
+  {
+    "id": "pt-0117",
+    "word": "encher",
+    "pos": "v.",
+    "zh": "装满"
+  },
+  {
+    "id": "pt-0118",
+    "word": "esvaziar",
+    "pos": "v.",
+    "zh": "清空"
+  },
+  {
+    "id": "pt-0119",
+    "word": "segurar",
+    "pos": "v.",
+    "zh": "抓住；握住"
+  },
+  {
+    "id": "pt-0120",
+    "word": "soltar",
+    "pos": "v.",
+    "zh": "放开"
+  },
+  {
+    "id": "pt-0121",
+    "word": "dobrar",
+    "pos": "v.",
+    "zh": "折叠；转弯"
+  },
+  {
+    "id": "pt-0122",
+    "word": "pendurar",
+    "pos": "v.",
+    "zh": "挂起"
+  },
+  {
+    "id": "pt-0123",
+    "word": "tirar",
+    "pos": "v.",
+    "zh": "拿走；脱下"
+  },
+  {
+    "id": "pt-0124",
+    "word": "pousar",
+    "pos": "v.",
+    "zh": "放下；降落"
+  },
+  {
+    "id": "pt-0125",
+    "word": "aproximar-se",
+    "pos": "v.",
+    "zh": "靠近"
+  },
+  {
+    "id": "pt-0126",
+    "word": "afastar-se",
+    "pos": "v.",
+    "zh": "远离"
+  },
+  {
+    "id": "pt-0127",
+    "word": "crescer",
+    "pos": "v.",
+    "zh": "生长；增长"
+  },
+  {
+    "id": "pt-0128",
+    "word": "diminuir",
+    "pos": "v.",
+    "zh": "减少"
+  },
+  {
+    "id": "pt-0129",
+    "word": "sumir",
+    "pos": "v.",
+    "zh": "消失"
+  },
+  {
+    "id": "pt-0130",
+    "word": "aparecer",
+    "pos": "v.",
+    "zh": "出现"
+  },
+  {
+    "id": "pt-0131",
+    "word": "consertar",
+    "pos": "v.",
+    "zh": "修理"
+  },
+  {
+    "id": "pt-0132",
+    "word": "estragar",
+    "pos": "v.",
+    "zh": "弄坏"
+  },
+  {
+    "id": "pt-0133",
+    "word": "devolver",
+    "pos": "v.",
+    "zh": "归还"
+  },
+  {
+    "id": "pt-0134",
+    "word": "emprestar",
+    "pos": "v.",
+    "zh": "借出"
+  },
+  {
+    "id": "pt-0135",
+    "word": "apanhar sol",
+    "pos": "v.",
+    "zh": "晒太阳"
+  },
+  {
+    "id": "pt-0136",
+    "word": "adiar",
+    "pos": "v.",
+    "zh": "推迟"
+  },
+  {
+    "id": "pt-0137",
+    "word": "combinar",
+    "pos": "v.",
+    "zh": "约定；搭配"
+  },
+  {
+    "id": "pt-0138",
+    "word": "marcar",
+    "pos": "v.",
+    "zh": "预约；标记"
+  },
+  {
+    "id": "pt-0139",
+    "word": "confirmar",
+    "pos": "v.",
+    "zh": "确认"
+  },
+  {
+    "id": "pt-0140",
+    "word": "cancelar",
+    "pos": "v.",
+    "zh": "取消"
+  },
+  {
+    "id": "pt-0141",
+    "word": "avisar",
+    "pos": "v.",
+    "zh": "通知；提醒"
+  },
+  {
+    "id": "pt-0142",
+    "word": "responder",
+    "pos": "v.",
+    "zh": "回答"
+  },
+  {
+    "id": "pt-0143",
+    "word": "perguntar",
+    "pos": "v.",
+    "zh": "询问"
+  },
+  {
+    "id": "pt-0144",
+    "word": "explicar",
+    "pos": "v.",
+    "zh": "解释"
+  },
+  {
+    "id": "pt-0145",
+    "word": "repetir",
+    "pos": "v.",
+    "zh": "重复"
+  },
+  {
+    "id": "pt-0146",
+    "word": "compreender",
+    "pos": "v.",
+    "zh": "理解"
+  },
+  {
+    "id": "pt-0147",
+    "word": "traduzir",
+    "pos": "v.",
+    "zh": "翻译"
+  },
+  {
+    "id": "pt-0148",
+    "word": "decorar",
+    "pos": "v.",
+    "zh": "背诵"
+  },
+  {
+    "id": "pt-0149",
+    "word": "escrever",
+    "pos": "v.",
+    "zh": "写"
+  },
+  {
+    "id": "pt-0150",
+    "word": "ler",
+    "pos": "v.",
+    "zh": "读"
+  },
+  {
+    "id": "pt-0151",
+    "word": "ouvir",
+    "pos": "v.",
+    "zh": "听"
+  },
+  {
+    "id": "pt-0152",
+    "word": "falar",
+    "pos": "v.",
+    "zh": "说"
+  },
+  {
+    "id": "pt-0153",
+    "word": "assistir",
+    "pos": "v.",
+    "zh": "观看"
+  },
+  {
+    "id": "pt-0154",
+    "word": "viajar",
+    "pos": "v.",
+    "zh": "旅行"
+  },
+  {
+    "id": "pt-0155",
+    "word": "nadar",
+    "pos": "v.",
+    "zh": "游泳"
+  },
+  {
+    "id": "pt-0156",
+    "word": "dançar",
+    "pos": "v.",
+    "zh": "跳舞"
+  },
+  {
+    "id": "pt-0157",
+    "word": "cantar",
+    "pos": "v.",
+    "zh": "唱歌"
+  },
+  {
+    "id": "pt-0158",
+    "word": "jogar",
+    "pos": "v.",
+    "zh": "玩；踢（球）"
+  },
+  {
+    "id": "pt-0159",
+    "word": "treinar",
+    "pos": "v.",
+    "zh": "训练"
+  },
+  {
+    "id": "pt-0160",
+    "word": "descansar",
+    "pos": "v.",
+    "zh": "休息"
+  },
+  {
+    "id": "pt-0161",
+    "word": "acordar",
+    "pos": "v.",
+    "zh": "醒来"
+  },
+  {
+    "id": "pt-0162",
+    "word": "dormir",
+    "pos": "v.",
+    "zh": "睡觉"
+  },
+  {
+    "id": "pt-0163",
+    "word": "tomar banho",
+    "pos": "v.",
+    "zh": "洗澡"
+  },
+  {
+    "id": "pt-0164",
+    "word": "lavar",
+    "pos": "v.",
+    "zh": "洗"
+  },
+  {
+    "id": "pt-0165",
+    "word": "secar",
+    "pos": "v.",
+    "zh": "弄干"
+  },
+  {
+    "id": "pt-0166",
+    "word": "escovar",
+    "pos": "v.",
+    "zh": "刷"
+  },
+  {
+    "id": "pt-0167",
+    "word": "pentear",
+    "pos": "v.",
+    "zh": "梳头"
+  },
+  {
+    "id": "pt-0168",
+    "word": "maquilhar-se",
+    "pos": "v.",
+    "zh": "化妆"
+  },
+  {
+    "id": "pt-0169",
+    "word": "barbear-se",
+    "pos": "v.",
+    "zh": "刮胡子"
+  },
+  {
+    "id": "pt-0170",
+    "word": "experimentar",
+    "pos": "v.",
+    "zh": "试；尝试"
+  },
+  {
+    "id": "pt-0171",
+    "word": "comprar",
+    "pos": "v.",
+    "zh": "买"
+  },
+  {
+    "id": "pt-0172",
+    "word": "vender",
+    "pos": "v.",
+    "zh": "卖"
+  },
+  {
+    "id": "pt-0173",
+    "word": "pagar",
+    "pos": "v.",
+    "zh": "付款"
+  },
+  {
+    "id": "pt-0174",
+    "word": "custar",
+    "pos": "v.",
+    "zh": "花费"
+  },
+  {
+    "id": "pt-0175",
+    "word": "trocar",
+    "pos": "v.",
+    "zh": "更换；兑换"
+  },
+  {
+    "id": "pt-0176",
+    "word": "escolher",
+    "pos": "v.",
+    "zh": "选择"
+  },
+  {
+    "id": "pt-0177",
+    "word": "procurar",
+    "pos": "v.",
+    "zh": "寻找"
+  },
+  {
+    "id": "pt-0178",
+    "word": "encontrar",
+    "pos": "v.",
+    "zh": "找到；遇见"
+  },
+  {
+    "id": "pt-0179",
+    "word": "perder",
+    "pos": "v.",
+    "zh": "丢失；输"
+  },
+  {
+    "id": "pt-0180",
+    "word": "ganhar",
+    "pos": "v.",
+    "zh": "赢得；赚取"
+  },
+  {
+    "id": "pt-0181",
+    "word": "abrir",
+    "pos": "v.",
+    "zh": "打开"
+  },
+  {
+    "id": "pt-0182",
+    "word": "entrar",
+    "pos": "v.",
+    "zh": "进入"
+  },
+  {
+    "id": "pt-0183",
+    "word": "sair",
+    "pos": "v.",
+    "zh": "出去；离开"
+  },
+  {
+    "id": "pt-0184",
+    "word": "subir",
+    "pos": "v.",
+    "zh": "上升；上车"
+  },
+  {
+    "id": "pt-0185",
+    "word": "andar",
+    "pos": "v.",
+    "zh": "走路"
+  },
+  {
+    "id": "pt-0186",
+    "word": "parar",
+    "pos": "v.",
+    "zh": "停下"
+  },
+  {
+    "id": "pt-0187",
+    "word": "esperar",
+    "pos": "v.",
+    "zh": "等待；希望"
+  },
+  {
+    "id": "pt-0188",
+    "word": "chegar",
+    "pos": "v.",
+    "zh": "到达"
+  },
+  {
+    "id": "pt-0189",
+    "word": "partir",
+    "pos": "v.",
+    "zh": "出发；切开"
+  },
+  {
+    "id": "pt-0190",
+    "word": "ficar",
+    "pos": "v.",
+    "zh": "停留；变得"
+  },
+  {
+    "id": "pt-0191",
+    "word": "mudar",
+    "pos": "v.",
+    "zh": "改变；搬家"
+  },
+  {
+    "id": "pt-0192",
+    "word": "usar",
+    "pos": "v.",
+    "zh": "使用"
+  },
+  {
+    "id": "pt-0193",
+    "word": "ligar",
+    "pos": "v.",
+    "zh": "打开；打电话"
+  },
+  {
+    "id": "pt-0194",
+    "word": "carregar",
+    "pos": "v.",
+    "zh": "充电；搬运"
+  },
+  {
+    "id": "pt-0195",
+    "word": "guardar",
+    "pos": "v.",
+    "zh": "保存；收好"
+  },
+  {
+    "id": "pt-0196",
+    "word": "mandar",
+    "pos": "v.",
+    "zh": "发送；命令"
+  },
+  {
+    "id": "pt-0197",
+    "word": "receber",
+    "pos": "v.",
+    "zh": "收到"
+  },
+  {
+    "id": "pt-0198",
+    "word": "imprimir",
+    "pos": "v.",
+    "zh": "打印"
+  },
+  {
+    "id": "pt-0199",
+    "word": "fotografar",
+    "pos": "v.",
+    "zh": "拍照"
+  },
+  {
+    "id": "pt-0200",
+    "word": "filmar",
+    "pos": "v.",
+    "zh": "拍摄"
+  },
+  {
+    "id": "pt-0201",
+    "word": "guisar",
+    "pos": "v.",
+    "zh": "炖菜；炖汤"
   }
 ]
