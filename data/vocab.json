@@ -1,0 +1,4232 @@
+[
+  {
+    "id": "pt-0001",
+    "word": "arrepender-se de",
+    "pos": "v.",
+    "zh": "后悔"
+  },
+  {
+    "id": "pt-0002",
+    "word": "queixar-se de",
+    "pos": "v.",
+    "zh": "抱怨"
+  },
+  {
+    "id": "pt-0003",
+    "word": "zangar-se com",
+    "pos": "v.",
+    "zh": "生气"
+  },
+  {
+    "id": "pt-0004",
+    "word": "gabar-se de",
+    "pos": "v.",
+    "zh": "自夸"
+  },
+  {
+    "id": "pt-0005",
+    "word": "orgulhar-se de",
+    "pos": "v.",
+    "zh": "以…为傲"
+  },
+  {
+    "id": "pt-0006",
+    "word": "envergonhar-se de",
+    "pos": "v.",
+    "zh": "羞于"
+  },
+  {
+    "id": "pt-0007",
+    "word": "compadecer-se de",
+    "pos": "v.",
+    "zh": "怜悯"
+  },
+  {
+    "id": "pt-0008",
+    "word": "atrever-se a",
+    "pos": "v.",
+    "zh": "敢于"
+  },
+  {
+    "id": "pt-0009",
+    "word": "abster-se de",
+    "pos": "v.",
+    "zh": "弃权"
+  },
+  {
+    "id": "pt-0010",
+    "word": "esquecer-se de",
+    "pos": "v.",
+    "zh": "忘记"
+  },
+  {
+    "id": "pt-0011",
+    "word": "aperceber-se de",
+    "pos": "v.",
+    "zh": "发觉"
+  },
+  {
+    "id": "pt-0012",
+    "word": "lembrar-se de",
+    "pos": "v.",
+    "zh": "记得"
+  },
+  {
+    "id": "pt-0013",
+    "word": "rir-se de",
+    "pos": "v.",
+    "zh": "嘲笑"
+  },
+  {
+    "id": "pt-0014",
+    "word": "agradar",
+    "pos": "v.",
+    "zh": "使…喜欢"
+  },
+  {
+    "id": "pt-0015",
+    "word": "pertencer",
+    "pos": "v.",
+    "zh": "属于"
+  },
+  {
+    "id": "pt-0016",
+    "word": "suceder",
+    "pos": "v.",
+    "zh": "发生"
+  },
+  {
+    "id": "pt-0017",
+    "word": "falhar",
+    "pos": "v.",
+    "zh": "未成功"
+  },
+  {
+    "id": "pt-0018",
+    "word": "escapar",
+    "pos": "v.",
+    "zh": "逃脱"
+  },
+  {
+    "id": "pt-0019",
+    "word": "apetece-me",
+    "pos": "v.",
+    "zh": "我想要"
+  },
+  {
+    "id": "pt-0020",
+    "word": "custar a",
+    "pos": "v.",
+    "zh": "对…来说困难"
+  },
+  {
+    "id": "pt-0021",
+    "word": "contentar-se com",
+    "pos": "v.",
+    "zh": "满足于"
+  },
+  {
+    "id": "pt-0022",
+    "word": "conformar-se com",
+    "pos": "v.",
+    "zh": "安于"
+  },
+  {
+    "id": "pt-0023",
+    "word": "importar-se com",
+    "pos": "v.",
+    "zh": "在意"
+  },
+  {
+    "id": "pt-0024",
+    "word": "casar com",
+    "pos": "v.",
+    "zh": "和…结婚"
+  },
+  {
+    "id": "pt-0025",
+    "word": "sonhar com",
+    "pos": "v.",
+    "zh": "梦见"
+  },
+  {
+    "id": "pt-0026",
+    "word": "dispor de",
+    "pos": "v.",
+    "zh": "拥有"
+  },
+  {
+    "id": "pt-0027",
+    "word": "duvidar de",
+    "pos": "v.",
+    "zh": "怀疑"
+  },
+  {
+    "id": "pt-0028",
+    "word": "necessitar de",
+    "pos": "v.",
+    "zh": "需要"
+  },
+  {
+    "id": "pt-0029",
+    "word": "desistir de",
+    "pos": "v.",
+    "zh": "放弃"
+  },
+  {
+    "id": "pt-0030",
+    "word": "consistir em",
+    "pos": "v.",
+    "zh": "在于"
+  },
+  {
+    "id": "pt-0031",
+    "word": "insistir em",
+    "pos": "v.",
+    "zh": "坚持"
+  },
+  {
+    "id": "pt-0032",
+    "word": "pensar em",
+    "pos": "v.",
+    "zh": "想起"
+  },
+  {
+    "id": "pt-0033",
+    "word": "basear-se em",
+    "pos": "v.",
+    "zh": "基于"
+  },
+  {
+    "id": "pt-0034",
+    "word": "viver de",
+    "pos": "v.",
+    "zh": "靠…生活"
+  },
+  {
+    "id": "pt-0035",
+    "word": "prescindir de",
+    "pos": "v.",
+    "zh": "缺少"
+  },
+  {
+    "id": "pt-0036",
+    "word": "gostar de",
+    "pos": "v.",
+    "zh": "喜欢"
+  },
+  {
+    "id": "pt-0037",
+    "word": "levar",
+    "pos": "v.",
+    "zh": "拿去"
+  },
+  {
+    "id": "pt-0038",
+    "word": "trazer",
+    "pos": "v.",
+    "zh": "带来"
+  },
+  {
+    "id": "pt-0039",
+    "word": "crer",
+    "pos": "v.",
+    "zh": "相信"
+  },
+  {
+    "id": "pt-0040",
+    "word": "medir",
+    "pos": "v.",
+    "zh": "测量"
+  },
+  {
+    "id": "pt-0041",
+    "word": "sorrir",
+    "pos": "v.",
+    "zh": "微笑"
+  },
+  {
+    "id": "pt-0042",
+    "word": "sentir",
+    "pos": "v.",
+    "zh": "感觉"
+  },
+  {
+    "id": "pt-0043",
+    "word": "preferir",
+    "pos": "v.",
+    "zh": "偏爱"
+  },
+  {
+    "id": "pt-0044",
+    "word": "vestir",
+    "pos": "v.",
+    "zh": "穿衣服"
+  },
+  {
+    "id": "pt-0045",
+    "word": "petiscar",
+    "pos": "v.",
+    "zh": "吃零食"
+  },
+  {
+    "id": "pt-0046",
+    "word": "mixar",
+    "pos": "v.",
+    "zh": "混合"
+  },
+  {
+    "id": "pt-0047",
+    "word": "somar",
+    "pos": "v.",
+    "zh": "加"
+  },
+  {
+    "id": "pt-0048",
+    "word": "subtrair",
+    "pos": "v.",
+    "zh": "减去"
+  },
+  {
+    "id": "pt-0049",
+    "word": "multiplicar",
+    "pos": "v.",
+    "zh": "乘"
+  },
+  {
+    "id": "pt-0050",
+    "word": "dividir",
+    "pos": "v.",
+    "zh": "除"
+  },
+  {
+    "id": "pt-0051",
+    "word": "desmaiar",
+    "pos": "v.",
+    "zh": "晕倒"
+  },
+  {
+    "id": "pt-0052",
+    "word": "descarregar",
+    "pos": "v.",
+    "zh": "下载"
+  },
+  {
+    "id": "pt-0053",
+    "word": "registar",
+    "pos": "v.",
+    "zh": "注册"
+  },
+  {
+    "id": "pt-0054",
+    "word": "resvalar",
+    "pos": "v.",
+    "zh": "滑倒"
+  },
+  {
+    "id": "pt-0055",
+    "word": "saldar",
+    "pos": "v.",
+    "zh": "结清"
+  },
+  {
+    "id": "pt-0056",
+    "word": "salgar",
+    "pos": "v.",
+    "zh": "加盐"
+  },
+  {
+    "id": "pt-0057",
+    "word": "embrulhar",
+    "pos": "v.",
+    "zh": "打包"
+  },
+  {
+    "id": "pt-0058",
+    "word": "mergulhar",
+    "pos": "v.",
+    "zh": "潜水"
+  },
+  {
+    "id": "pt-0059",
+    "word": "apanhar",
+    "pos": "v.",
+    "zh": "接；坐；捡；遭受"
+  },
+  {
+    "id": "pt-0060",
+    "word": "guiar",
+    "pos": "v.",
+    "zh": "引导；驾驶"
+  },
+  {
+    "id": "pt-0061",
+    "word": "participar",
+    "pos": "v.",
+    "zh": "参与"
+  },
+  {
+    "id": "pt-0062",
+    "word": "amassar",
+    "pos": "v.",
+    "zh": "揉面"
+  },
+  {
+    "id": "pt-0063",
+    "word": "passar",
+    "pos": "v.",
+    "zh": "涂抹；递给；经过"
+  },
+  {
+    "id": "pt-0064",
+    "word": "morreu",
+    "pos": "v.",
+    "zh": "死了"
+  },
+  {
+    "id": "pt-0065",
+    "word": "dourar",
+    "pos": "v.",
+    "zh": "煎至金黄"
+  },
+  {
+    "id": "pt-0066",
+    "word": "ferver",
+    "pos": "v.",
+    "zh": "煮沸"
+  },
+  {
+    "id": "pt-0067",
+    "word": "cozer",
+    "pos": "v.",
+    "zh": "煮；烹饪；缝"
+  },
+  {
+    "id": "pt-0068",
+    "word": "entornar",
+    "pos": "v.",
+    "zh": "打翻"
+  },
+  {
+    "id": "pt-0069",
+    "word": "bater",
+    "pos": "v.",
+    "zh": "打；敲；搅拌"
+  },
+  {
+    "id": "pt-0070",
+    "word": "descascar",
+    "pos": "v.",
+    "zh": "剥皮"
+  },
+  {
+    "id": "pt-0071",
+    "word": "picar",
+    "pos": "v.",
+    "zh": "切碎；叮；扎"
+  },
+  {
+    "id": "pt-0072",
+    "word": "temperar",
+    "pos": "v.",
+    "zh": "调味"
+  },
+  {
+    "id": "pt-0073",
+    "word": "deitar",
+    "pos": "v.",
+    "zh": "放；躺下"
+  },
+  {
+    "id": "pt-0074",
+    "word": "mexer",
+    "pos": "v.",
+    "zh": "搅拌；移动"
+  },
+  {
+    "id": "pt-0075",
+    "word": "enfeitar",
+    "pos": "v.",
+    "zh": "装饰"
+  },
+  {
+    "id": "pt-0076",
+    "word": "espremer",
+    "pos": "v.",
+    "zh": "挤压"
+  },
+  {
+    "id": "pt-0077",
+    "word": "soprar",
+    "pos": "v.",
+    "zh": "吹"
+  },
+  {
+    "id": "pt-0078",
+    "word": "tapar",
+    "pos": "v.",
+    "zh": "盖住；堵住"
+  },
+  {
+    "id": "pt-0079",
+    "word": "desligar",
+    "pos": "v.",
+    "zh": "关闭"
+  },
+  {
+    "id": "pt-0080",
+    "word": "decidir",
+    "pos": "v.",
+    "zh": "决定"
+  },
+  {
+    "id": "pt-0081",
+    "word": "desalojar",
+    "pos": "v.",
+    "zh": "使撤离"
+  },
+  {
+    "id": "pt-0082",
+    "word": "decifrar",
+    "pos": "v.",
+    "zh": "弄懂"
+  },
+  {
+    "id": "pt-0083",
+    "word": "aviar",
+    "pos": "v.",
+    "zh": "抓紧给我送来"
+  },
+  {
+    "id": "pt-0084",
+    "word": "saborear",
+    "pos": "v.",
+    "zh": "品尝"
+  },
+  {
+    "id": "pt-0085",
+    "word": "saboreio",
+    "pos": "n.m.",
+    "zh": "品尝"
+  },
+  {
+    "id": "pt-0086",
+    "word": "encomendar",
+    "pos": "v.",
+    "zh": "点（菜）；订购"
+  },
+  {
+    "id": "pt-0087",
+    "word": "almoçar",
+    "pos": "v.",
+    "zh": "吃午餐"
+  },
+  {
+    "id": "pt-0088",
+    "word": "jantar",
+    "pos": "v.",
+    "zh": "吃晚餐"
+  },
+  {
+    "id": "pt-0089",
+    "word": "cheirar",
+    "pos": "v.",
+    "zh": "闻起来；嗅"
+  },
+  {
+    "id": "pt-0090",
+    "word": "petiscar",
+    "pos": "v.",
+    "zh": "吃零食"
+  },
+  {
+    "id": "pt-0091",
+    "word": "comer fora",
+    "pos": "v.",
+    "zh": "在外吃饭"
+  },
+  {
+    "id": "pt-0092",
+    "word": "estar cheio",
+    "pos": "adj.",
+    "zh": "饱了"
+  },
+  {
+    "id": "pt-0093",
+    "word": "esvaziar-se",
+    "pos": "v.",
+    "zh": "变空"
+  },
+  {
+    "id": "pt-0094",
+    "word": "deitar fora",
+    "pos": "v.",
+    "zh": "扔掉"
+  },
+  {
+    "id": "pt-0095",
+    "word": "desfazer",
+    "pos": "v.",
+    "zh": "融化"
+  },
+  {
+    "id": "pt-0096",
+    "word": "raspar",
+    "pos": "v.",
+    "zh": "刮；擦；蹭上"
+  },
+  {
+    "id": "pt-0097",
+    "word": "apontar",
+    "pos": "v.",
+    "zh": "指；指出"
+  },
+  {
+    "id": "pt-0098",
+    "word": "desmanchar",
+    "pos": "v.",
+    "zh": "弄散；弄乱；瓦解"
+  },
+  {
+    "id": "pt-0099",
+    "word": "corrigir",
+    "pos": "v.",
+    "zh": "改正"
+  },
+  {
+    "id": "pt-0100",
+    "word": "animar",
+    "pos": "v.",
+    "zh": "鼓励；使有生气"
+  },
+  {
+    "id": "pt-0101",
+    "word": "acontecer",
+    "pos": "v.",
+    "zh": "发生"
+  },
+  {
+    "id": "pt-0102",
+    "word": "descarar",
+    "pos": "v.",
+    "zh": "不要脸地盯着看"
+  },
+  {
+    "id": "pt-0103",
+    "word": "adoecer",
+    "pos": "v.",
+    "zh": "生病"
+  },
+  {
+    "id": "pt-0104",
+    "word": "injuriar",
+    "pos": "v.",
+    "zh": "辱骂"
+  },
+  {
+    "id": "pt-0105",
+    "word": "revelar",
+    "pos": "v.",
+    "zh": "揭露；透露"
+  },
+  {
+    "id": "pt-0106",
+    "word": "modificar",
+    "pos": "v.",
+    "zh": "修改"
+  },
+  {
+    "id": "pt-0107",
+    "word": "suscitar",
+    "pos": "v.",
+    "zh": "引起"
+  },
+  {
+    "id": "pt-0108",
+    "word": "desagradar",
+    "pos": "v.",
+    "zh": "不讨人喜欢"
+  },
+  {
+    "id": "pt-0109",
+    "word": "atentar",
+    "pos": "v.",
+    "zh": "注意"
+  },
+  {
+    "id": "pt-0110",
+    "word": "abranger",
+    "pos": "v.",
+    "zh": "覆盖；包括"
+  },
+  {
+    "id": "pt-0111",
+    "word": "convir",
+    "pos": "v.",
+    "zh": "适合；对…有利"
+  },
+  {
+    "id": "pt-0112",
+    "word": "referir",
+    "pos": "v.",
+    "zh": "提到"
+  },
+  {
+    "id": "pt-0113",
+    "word": "lançar",
+    "pos": "v.",
+    "zh": "投；发起；推出"
+  },
+  {
+    "id": "pt-0114",
+    "word": "abandonar",
+    "pos": "v.",
+    "zh": "抛弃；放弃"
+  },
+  {
+    "id": "pt-0115",
+    "word": "apoderar-se de",
+    "pos": "v.",
+    "zh": "夺取；占据"
+  },
+  {
+    "id": "pt-0116",
+    "word": "adquirir",
+    "pos": "v.",
+    "zh": "获得；购得"
+  },
+  {
+    "id": "pt-0117",
+    "word": "pronunciar",
+    "pos": "v.",
+    "zh": "发音；发表"
+  },
+  {
+    "id": "pt-0118",
+    "word": "conseguir",
+    "pos": "v.",
+    "zh": "获得；做到"
+  },
+  {
+    "id": "pt-0119",
+    "word": "imaginar",
+    "pos": "v.",
+    "zh": "想象"
+  },
+  {
+    "id": "pt-0120",
+    "word": "residir",
+    "pos": "v.",
+    "zh": "居住；在于"
+  },
+  {
+    "id": "pt-0121",
+    "word": "nomear",
+    "pos": "v.",
+    "zh": "命名；任命"
+  },
+  {
+    "id": "pt-0122",
+    "word": "reagir",
+    "pos": "v.",
+    "zh": "反应"
+  },
+  {
+    "id": "pt-0123",
+    "word": "aderir",
+    "pos": "v.",
+    "zh": "加入；赞同"
+  },
+  {
+    "id": "pt-0124",
+    "word": "liderar",
+    "pos": "v.",
+    "zh": "领导"
+  },
+  {
+    "id": "pt-0125",
+    "word": "predominar",
+    "pos": "v.",
+    "zh": "占优势；盛行"
+  },
+  {
+    "id": "pt-0126",
+    "word": "desenvolver-se",
+    "pos": "v.",
+    "zh": "发展"
+  },
+  {
+    "id": "pt-0127",
+    "word": "afetar",
+    "pos": "v.",
+    "zh": "影响"
+  },
+  {
+    "id": "pt-0128",
+    "word": "constituir",
+    "pos": "v.",
+    "zh": "构成"
+  },
+  {
+    "id": "pt-0129",
+    "word": "preservar",
+    "pos": "v.",
+    "zh": "保护；保存"
+  },
+  {
+    "id": "pt-0130",
+    "word": "acolher",
+    "pos": "v.",
+    "zh": "接纳；欢迎"
+  },
+  {
+    "id": "pt-0131",
+    "word": "ultrapassar",
+    "pos": "v.",
+    "zh": "超越；克服"
+  },
+  {
+    "id": "pt-0132",
+    "word": "estimular",
+    "pos": "v.",
+    "zh": "刺激；促进"
+  },
+  {
+    "id": "pt-0133",
+    "word": "garantir",
+    "pos": "v.",
+    "zh": "保证"
+  },
+  {
+    "id": "pt-0134",
+    "word": "comprometer",
+    "pos": "v.",
+    "zh": "承诺；危及"
+  },
+  {
+    "id": "pt-0135",
+    "word": "atingir",
+    "pos": "v.",
+    "zh": "达到；影响到"
+  },
+  {
+    "id": "pt-0136",
+    "word": "representar",
+    "pos": "v.",
+    "zh": "代表；象征"
+  },
+  {
+    "id": "pt-0137",
+    "word": "integrar",
+    "pos": "v.",
+    "zh": "融入；整合"
+  },
+  {
+    "id": "pt-0138",
+    "word": "enfrentar",
+    "pos": "v.",
+    "zh": "面对"
+  },
+  {
+    "id": "pt-0139",
+    "word": "beneficiar",
+    "pos": "v.",
+    "zh": "使受益"
+  },
+  {
+    "id": "pt-0140",
+    "word": "proteger",
+    "pos": "v.",
+    "zh": "保护"
+  },
+  {
+    "id": "pt-0141",
+    "word": "guisar",
+    "pos": "v.",
+    "zh": "炖菜；炖汤"
+  },
+  {
+    "id": "pt-0142",
+    "word": "vítima",
+    "pos": "n.f.",
+    "zh": "受害者"
+  },
+  {
+    "id": "pt-0143",
+    "word": "câmara",
+    "pos": "n.f.",
+    "zh": "房间；相机；议会"
+  },
+  {
+    "id": "pt-0144",
+    "word": "propina",
+    "pos": "n.f.",
+    "zh": "学费"
+  },
+  {
+    "id": "pt-0145",
+    "word": "charlatanice",
+    "pos": "n.f.",
+    "zh": "欺骗；江湖骗术"
+  },
+  {
+    "id": "pt-0146",
+    "word": "consciência",
+    "pos": "n.f.",
+    "zh": "意识；良心"
+  },
+  {
+    "id": "pt-0147",
+    "word": "desilusão",
+    "pos": "n.f.",
+    "zh": "失望"
+  },
+  {
+    "id": "pt-0148",
+    "word": "manifestação",
+    "pos": "n.f.",
+    "zh": "表现；示威；声明"
+  },
+  {
+    "id": "pt-0149",
+    "word": "intimidade",
+    "pos": "n.f.",
+    "zh": "亲密；隐私"
+  },
+  {
+    "id": "pt-0150",
+    "word": "bisca",
+    "pos": "n.f.",
+    "zh": "一种扑克牌游戏"
+  },
+  {
+    "id": "pt-0151",
+    "word": "higiene",
+    "pos": "n.f.",
+    "zh": "卫生"
+  },
+  {
+    "id": "pt-0152",
+    "word": "sementinha",
+    "pos": "n.f.",
+    "zh": "小种子"
+  },
+  {
+    "id": "pt-0153",
+    "word": "paragem",
+    "pos": "n.f.",
+    "zh": "车站；停靠点"
+  },
+  {
+    "id": "pt-0154",
+    "word": "taça",
+    "pos": "n.f.",
+    "zh": "杯；奖杯"
+  },
+  {
+    "id": "pt-0155",
+    "word": "pastilha",
+    "pos": "n.f.",
+    "zh": "药片；口香糖"
+  },
+  {
+    "id": "pt-0156",
+    "word": "barraca",
+    "pos": "n.f.",
+    "zh": "棚屋；摊位"
+  },
+  {
+    "id": "pt-0157",
+    "word": "beduíno",
+    "pos": "n.f.",
+    "zh": "阿拉伯人"
+  },
+  {
+    "id": "pt-0158",
+    "word": "embalagem",
+    "pos": "n.f.",
+    "zh": "包装"
+  },
+  {
+    "id": "pt-0159",
+    "word": "nuca",
+    "pos": "n.f.",
+    "zh": "脖颈后部"
+  },
+  {
+    "id": "pt-0160",
+    "word": "catástrofe",
+    "pos": "n.f.",
+    "zh": "灾难"
+  },
+  {
+    "id": "pt-0161",
+    "word": "pestana",
+    "pos": "n.f.",
+    "zh": "睫毛"
+  },
+  {
+    "id": "pt-0162",
+    "word": "frigideira",
+    "pos": "n.f.",
+    "zh": "平底锅"
+  },
+  {
+    "id": "pt-0163",
+    "word": "fava",
+    "pos": "n.f.",
+    "zh": "蚕豆"
+  },
+  {
+    "id": "pt-0164",
+    "word": "gema",
+    "pos": "n.f.",
+    "zh": "蛋黄"
+  },
+  {
+    "id": "pt-0165",
+    "word": "framboesa",
+    "pos": "n.f.",
+    "zh": "覆盆子"
+  },
+  {
+    "id": "pt-0166",
+    "word": "erva",
+    "pos": "n.f.",
+    "zh": "草；香草"
+  },
+  {
+    "id": "pt-0167",
+    "word": "malagueta",
+    "pos": "n.f.",
+    "zh": "辣椒"
+  },
+  {
+    "id": "pt-0168",
+    "word": "hortaliça",
+    "pos": "n.f.",
+    "zh": "蔬菜"
+  },
+  {
+    "id": "pt-0169",
+    "word": "chouriça",
+    "pos": "n.f.",
+    "zh": "葡式香肠"
+  },
+  {
+    "id": "pt-0170",
+    "word": "massa",
+    "pos": "n.f.",
+    "zh": "面团；面食；质量"
+  },
+  {
+    "id": "pt-0171",
+    "word": "nata",
+    "pos": "n.f.",
+    "zh": "奶油"
+  },
+  {
+    "id": "pt-0172",
+    "word": "farinha",
+    "pos": "n.f.",
+    "zh": "面粉"
+  },
+  {
+    "id": "pt-0173",
+    "word": "panela",
+    "pos": "n.f.",
+    "zh": "锅"
+  },
+  {
+    "id": "pt-0174",
+    "word": "sobremesa",
+    "pos": "n.f.",
+    "zh": "甜点"
+  },
+  {
+    "id": "pt-0175",
+    "word": "fatia",
+    "pos": "n.f.",
+    "zh": "片"
+  },
+  {
+    "id": "pt-0176",
+    "word": "receita",
+    "pos": "n.f.",
+    "zh": "食谱；收入；处方"
+  },
+  {
+    "id": "pt-0177",
+    "word": "dentada",
+    "pos": "n.f.",
+    "zh": "咬的一口"
+  },
+  {
+    "id": "pt-0178",
+    "word": "compota",
+    "pos": "n.f.",
+    "zh": "果酱"
+  },
+  {
+    "id": "pt-0179",
+    "word": "canela",
+    "pos": "n.f.",
+    "zh": "肉桂；小腿胫骨"
+  },
+  {
+    "id": "pt-0180",
+    "word": "sopa",
+    "pos": "n.f.",
+    "zh": "汤"
+  },
+  {
+    "id": "pt-0181",
+    "word": "passagem",
+    "pos": "n.f.",
+    "zh": "通道；票；片段"
+  },
+  {
+    "id": "pt-0182",
+    "word": "escadaria",
+    "pos": "n.f.",
+    "zh": "楼梯"
+  },
+  {
+    "id": "pt-0183",
+    "word": "parcela",
+    "pos": "n.f.",
+    "zh": "部分；地块；分期付款"
+  },
+  {
+    "id": "pt-0184",
+    "word": "freguesia",
+    "pos": "n.f.",
+    "zh": "堂区；行政区"
+  },
+  {
+    "id": "pt-0185",
+    "word": "fortaleza",
+    "pos": "n.f.",
+    "zh": "堡垒；坚强"
+  },
+  {
+    "id": "pt-0186",
+    "word": "tartaruga",
+    "pos": "n.f.",
+    "zh": "乌龟"
+  },
+  {
+    "id": "pt-0187",
+    "word": "tesoura",
+    "pos": "n.f.",
+    "zh": "剪刀"
+  },
+  {
+    "id": "pt-0188",
+    "word": "funda",
+    "pos": "n.f.",
+    "zh": "套子；保护套"
+  },
+  {
+    "id": "pt-0189",
+    "word": "manada",
+    "pos": "n.f.",
+    "zh": "兽群"
+  },
+  {
+    "id": "pt-0190",
+    "word": "girafa",
+    "pos": "n.f.",
+    "zh": "长颈鹿"
+  },
+  {
+    "id": "pt-0191",
+    "word": "lata",
+    "pos": "n.f.",
+    "zh": "罐头；铁罐"
+  },
+  {
+    "id": "pt-0192",
+    "word": "galocha",
+    "pos": "n.f.",
+    "zh": "胶鞋；雨靴"
+  },
+  {
+    "id": "pt-0193",
+    "word": "mágoa",
+    "pos": "n.f.",
+    "zh": "悲伤；怨恨"
+  },
+  {
+    "id": "pt-0194",
+    "word": "medida",
+    "pos": "n.f.",
+    "zh": "措施；尺寸"
+  },
+  {
+    "id": "pt-0195",
+    "word": "amostra",
+    "pos": "n.f.",
+    "zh": "样品；样本"
+  },
+  {
+    "id": "pt-0196",
+    "word": "estufa",
+    "pos": "n.f.",
+    "zh": "温室；烤炉"
+  },
+  {
+    "id": "pt-0197",
+    "word": "maleta",
+    "pos": "n.f.",
+    "zh": "小箱子"
+  },
+  {
+    "id": "pt-0198",
+    "word": "vila",
+    "pos": "n.f.",
+    "zh": "小镇；别墅"
+  },
+  {
+    "id": "pt-0199",
+    "word": "vara",
+    "pos": "n.f.",
+    "zh": "棍；杆"
+  },
+  {
+    "id": "pt-0200",
+    "word": "queda",
+    "pos": "n.f.",
+    "zh": "跌倒；下降"
+  },
+  {
+    "id": "pt-0201",
+    "word": "vertigem",
+    "pos": "n.f.",
+    "zh": "眩晕"
+  },
+  {
+    "id": "pt-0202",
+    "word": "bolsa",
+    "pos": "n.f.",
+    "zh": "包；奖学金；证券交易所"
+  },
+  {
+    "id": "pt-0203",
+    "word": "conta",
+    "pos": "n.f.",
+    "zh": "账户；账单"
+  },
+  {
+    "id": "pt-0204",
+    "word": "fatura",
+    "pos": "n.f.",
+    "zh": "发票"
+  },
+  {
+    "id": "pt-0205",
+    "word": "encomenda",
+    "pos": "n.f.",
+    "zh": "订单；包裹"
+  },
+  {
+    "id": "pt-0206",
+    "word": "pesquisa",
+    "pos": "n.f.",
+    "zh": "研究；搜索"
+  },
+  {
+    "id": "pt-0207",
+    "word": "fonte",
+    "pos": "n.f.",
+    "zh": "来源；喷泉；字体"
+  },
+  {
+    "id": "pt-0208",
+    "word": "ligação",
+    "pos": "n.f.",
+    "zh": "连接；电话"
+  },
+  {
+    "id": "pt-0209",
+    "word": "mensagem",
+    "pos": "n.f.",
+    "zh": "消息"
+  },
+  {
+    "id": "pt-0210",
+    "word": "senha",
+    "pos": "n.f.",
+    "zh": "密码"
+  },
+  {
+    "id": "pt-0211",
+    "word": "rede",
+    "pos": "n.f.",
+    "zh": "网络；网"
+  },
+  {
+    "id": "pt-0212",
+    "word": "janela",
+    "pos": "n.f.",
+    "zh": "窗；窗口"
+  },
+  {
+    "id": "pt-0213",
+    "word": "página",
+    "pos": "n.f.",
+    "zh": "页面"
+  },
+  {
+    "id": "pt-0214",
+    "word": "tecla",
+    "pos": "n.f.",
+    "zh": "键"
+  },
+  {
+    "id": "pt-0215",
+    "word": "notícia",
+    "pos": "n.f.",
+    "zh": "新闻"
+  },
+  {
+    "id": "pt-0216",
+    "word": "dúvida",
+    "pos": "n.f.",
+    "zh": "疑问"
+  },
+  {
+    "id": "pt-0217",
+    "word": "resposta",
+    "pos": "n.f.",
+    "zh": "回答"
+  },
+  {
+    "id": "pt-0218",
+    "word": "pergunta",
+    "pos": "n.f.",
+    "zh": "问题"
+  },
+  {
+    "id": "pt-0219",
+    "word": "tradução",
+    "pos": "n.f.",
+    "zh": "翻译"
+  },
+  {
+    "id": "pt-0220",
+    "word": "frase",
+    "pos": "n.f.",
+    "zh": "句子"
+  },
+  {
+    "id": "pt-0221",
+    "word": "palavra",
+    "pos": "n.f.",
+    "zh": "单词"
+  },
+  {
+    "id": "pt-0222",
+    "word": "pronúncia",
+    "pos": "n.f.",
+    "zh": "发音"
+  },
+  {
+    "id": "pt-0223",
+    "word": "gramática",
+    "pos": "n.f.",
+    "zh": "语法"
+  },
+  {
+    "id": "pt-0224",
+    "word": "memória",
+    "pos": "n.f.",
+    "zh": "记忆"
+  },
+  {
+    "id": "pt-0225",
+    "word": "rotina",
+    "pos": "n.f.",
+    "zh": "日常；惯例"
+  },
+  {
+    "id": "pt-0226",
+    "word": "viagem",
+    "pos": "n.f.",
+    "zh": "旅行"
+  },
+  {
+    "id": "pt-0227",
+    "word": "praia",
+    "pos": "n.f.",
+    "zh": "海滩"
+  },
+  {
+    "id": "pt-0228",
+    "word": "montanha",
+    "pos": "n.f.",
+    "zh": "山"
+  },
+  {
+    "id": "pt-0229",
+    "word": "aldeia",
+    "pos": "n.f.",
+    "zh": "村庄"
+  },
+  {
+    "id": "pt-0230",
+    "word": "estrada",
+    "pos": "n.f.",
+    "zh": "道路"
+  },
+  {
+    "id": "pt-0231",
+    "word": "rua",
+    "pos": "n.f.",
+    "zh": "街道"
+  },
+  {
+    "id": "pt-0232",
+    "word": "praça",
+    "pos": "n.f.",
+    "zh": "广场"
+  },
+  {
+    "id": "pt-0233",
+    "word": "esquina",
+    "pos": "n.f.",
+    "zh": "拐角"
+  },
+  {
+    "id": "pt-0234",
+    "word": "parque",
+    "pos": "n.m.",
+    "zh": "公园"
+  },
+  {
+    "id": "pt-0235",
+    "word": "mercado",
+    "pos": "n.m.",
+    "zh": "市场"
+  },
+  {
+    "id": "pt-0236",
+    "word": "restaurante",
+    "pos": "n.m.",
+    "zh": "餐馆"
+  },
+  {
+    "id": "pt-0237",
+    "word": "hotel",
+    "pos": "n.m.",
+    "zh": "酒店"
+  },
+  {
+    "id": "pt-0238",
+    "word": "aeroporto",
+    "pos": "n.m.",
+    "zh": "机场"
+  },
+  {
+    "id": "pt-0239",
+    "word": "comboio",
+    "pos": "n.m.",
+    "zh": "火车"
+  },
+  {
+    "id": "pt-0240",
+    "word": "autocarro",
+    "pos": "n.m.",
+    "zh": "公交车"
+  },
+  {
+    "id": "pt-0241",
+    "word": "avião",
+    "pos": "n.m.",
+    "zh": "飞机"
+  },
+  {
+    "id": "pt-0242",
+    "word": "carro",
+    "pos": "n.m.",
+    "zh": "汽车"
+  },
+  {
+    "id": "pt-0243",
+    "word": "bilhete",
+    "pos": "n.m.",
+    "zh": "票"
+  },
+  {
+    "id": "pt-0244",
+    "word": "mapa",
+    "pos": "n.m.",
+    "zh": "地图"
+  },
+  {
+    "id": "pt-0245",
+    "word": "destino",
+    "pos": "n.m.",
+    "zh": "目的地"
+  },
+  {
+    "id": "pt-0246",
+    "word": "caminho",
+    "pos": "n.m.",
+    "zh": "道路；方法"
+  },
+  {
+    "id": "pt-0247",
+    "word": "endereço",
+    "pos": "n.m.",
+    "zh": "地址"
+  },
+  {
+    "id": "pt-0248",
+    "word": "andar",
+    "pos": "n.m.",
+    "zh": "楼层"
+  },
+  {
+    "id": "pt-0249",
+    "word": "quarto",
+    "pos": "n.m.",
+    "zh": "房间；四分之一"
+  },
+  {
+    "id": "pt-0250",
+    "word": "banheiro",
+    "pos": "n.m.",
+    "zh": "洗手间"
+  },
+  {
+    "id": "pt-0251",
+    "word": "espelho",
+    "pos": "n.m.",
+    "zh": "镜子"
+  },
+  {
+    "id": "pt-0252",
+    "word": "sofá",
+    "pos": "n.m.",
+    "zh": "沙发"
+  },
+  {
+    "id": "pt-0253",
+    "word": "armário",
+    "pos": "n.m.",
+    "zh": "柜子"
+  },
+  {
+    "id": "pt-0254",
+    "word": "telemóvel",
+    "pos": "n.m.",
+    "zh": "手机"
+  },
+  {
+    "id": "pt-0255",
+    "word": "computador",
+    "pos": "n.m.",
+    "zh": "电脑"
+  },
+  {
+    "id": "pt-0256",
+    "word": "carregador",
+    "pos": "n.m.",
+    "zh": "充电器"
+  },
+  {
+    "id": "pt-0257",
+    "word": "caderno",
+    "pos": "n.m.",
+    "zh": "笔记本"
+  },
+  {
+    "id": "pt-0258",
+    "word": "livro",
+    "pos": "n.m.",
+    "zh": "书"
+  },
+  {
+    "id": "pt-0259",
+    "word": "dicionário",
+    "pos": "n.m.",
+    "zh": "词典"
+  },
+  {
+    "id": "pt-0260",
+    "word": "professor",
+    "pos": "n.m.",
+    "zh": "老师"
+  },
+  {
+    "id": "pt-0261",
+    "word": "aluno",
+    "pos": "n.m.",
+    "zh": "学生"
+  },
+  {
+    "id": "pt-0262",
+    "word": "colega",
+    "pos": "n.m.",
+    "zh": "同学；同事"
+  },
+  {
+    "id": "pt-0263",
+    "word": "amigo",
+    "pos": "n.m.",
+    "zh": "朋友"
+  },
+  {
+    "id": "pt-0264",
+    "word": "vizinho",
+    "pos": "n.m.",
+    "zh": "邻居"
+  },
+  {
+    "id": "pt-0265",
+    "word": "cliente",
+    "pos": "n.m.",
+    "zh": "顾客"
+  },
+  {
+    "id": "pt-0266",
+    "word": "empregado",
+    "pos": "n.m.",
+    "zh": "员工"
+  },
+  {
+    "id": "pt-0267",
+    "word": "chefe",
+    "pos": "n.m.",
+    "zh": "老板；上司"
+  },
+  {
+    "id": "pt-0268",
+    "word": "trabalho",
+    "pos": "n.m.",
+    "zh": "工作"
+  },
+  {
+    "id": "pt-0269",
+    "word": "emprego",
+    "pos": "n.m.",
+    "zh": "工作职位"
+  },
+  {
+    "id": "pt-0270",
+    "word": "negócio",
+    "pos": "n.m.",
+    "zh": "生意；事情"
+  },
+  {
+    "id": "pt-0271",
+    "word": "preço",
+    "pos": "n.m.",
+    "zh": "价格"
+  },
+  {
+    "id": "pt-0272",
+    "word": "desconto",
+    "pos": "n.m.",
+    "zh": "折扣"
+  },
+  {
+    "id": "pt-0273",
+    "word": "lucro",
+    "pos": "n.m.",
+    "zh": "利润"
+  },
+  {
+    "id": "pt-0274",
+    "word": "salário",
+    "pos": "n.m.",
+    "zh": "工资"
+  },
+  {
+    "id": "pt-0275",
+    "word": "contrato",
+    "pos": "n.m.",
+    "zh": "合同"
+  },
+  {
+    "id": "pt-0276",
+    "word": "prazo",
+    "pos": "n.m.",
+    "zh": "期限"
+  },
+  {
+    "id": "pt-0277",
+    "word": "projeto",
+    "pos": "n.m.",
+    "zh": "项目"
+  },
+  {
+    "id": "pt-0278",
+    "word": "relatório",
+    "pos": "n.m.",
+    "zh": "报告"
+  },
+  {
+    "id": "pt-0279",
+    "word": "resultado",
+    "pos": "n.m.",
+    "zh": "结果"
+  },
+  {
+    "id": "pt-0280",
+    "word": "objetivo",
+    "pos": "n.m.",
+    "zh": "目标"
+  },
+  {
+    "id": "pt-0281",
+    "word": "desenvolvimento",
+    "pos": "n.m.",
+    "zh": "发展"
+  },
+  {
+    "id": "pt-0282",
+    "word": "crescimento",
+    "pos": "n.m.",
+    "zh": "增长"
+  },
+  {
+    "id": "pt-0283",
+    "word": "investimento",
+    "pos": "n.m.",
+    "zh": "投资"
+  },
+  {
+    "id": "pt-0284",
+    "word": "financiamento",
+    "pos": "n.m.",
+    "zh": "融资"
+  },
+  {
+    "id": "pt-0285",
+    "word": "comércio",
+    "pos": "n.m.",
+    "zh": "贸易"
+  },
+  {
+    "id": "pt-0286",
+    "word": "produto",
+    "pos": "n.m.",
+    "zh": "产品"
+  },
+  {
+    "id": "pt-0287",
+    "word": "serviço",
+    "pos": "n.m.",
+    "zh": "服务"
+  },
+  {
+    "id": "pt-0288",
+    "word": "consumo",
+    "pos": "n.m.",
+    "zh": "消费"
+  },
+  {
+    "id": "pt-0289",
+    "word": "turismo",
+    "pos": "n.m.",
+    "zh": "旅游业"
+  },
+  {
+    "id": "pt-0290",
+    "word": "ambiente",
+    "pos": "n.m.",
+    "zh": "环境"
+  },
+  {
+    "id": "pt-0291",
+    "word": "governo",
+    "pos": "n.m.",
+    "zh": "政府"
+  },
+  {
+    "id": "pt-0292",
+    "word": "país",
+    "pos": "n.m.",
+    "zh": "国家"
+  },
+  {
+    "id": "pt-0293",
+    "word": "povo",
+    "pos": "n.m.",
+    "zh": "人民"
+  },
+  {
+    "id": "pt-0294",
+    "word": "mundo",
+    "pos": "n.m.",
+    "zh": "世界"
+  },
+  {
+    "id": "pt-0295",
+    "word": "tempo",
+    "pos": "n.m.",
+    "zh": "时间；天气"
+  },
+  {
+    "id": "pt-0296",
+    "word": "dia",
+    "pos": "n.m.",
+    "zh": "天"
+  },
+  {
+    "id": "pt-0297",
+    "word": "ano",
+    "pos": "n.m.",
+    "zh": "年"
+  },
+  {
+    "id": "pt-0298",
+    "word": "mês",
+    "pos": "n.m.",
+    "zh": "月"
+  },
+  {
+    "id": "pt-0299",
+    "word": "problema",
+    "pos": "n.m.",
+    "zh": "问题"
+  },
+  {
+    "id": "pt-0300",
+    "word": "motivo",
+    "pos": "n.m.",
+    "zh": "原因"
+  },
+  {
+    "id": "pt-0301",
+    "word": "exemplo",
+    "pos": "n.m.",
+    "zh": "例子"
+  },
+  {
+    "id": "pt-0302",
+    "word": "efeito",
+    "pos": "n.m.",
+    "zh": "效果；影响"
+  },
+  {
+    "id": "pt-0303",
+    "word": "meio",
+    "pos": "n.m.",
+    "zh": "方式；中间；环境"
+  },
+  {
+    "id": "pt-0304",
+    "word": "caso",
+    "pos": "n.m.",
+    "zh": "情况；案例"
+  },
+  {
+    "id": "pt-0305",
+    "word": "fato",
+    "pos": "n.m.",
+    "zh": "事实"
+  },
+  {
+    "id": "pt-0306",
+    "word": "acesso",
+    "pos": "n.m.",
+    "zh": "获取；进入"
+  },
+  {
+    "id": "pt-0307",
+    "word": "apoio",
+    "pos": "n.m.",
+    "zh": "支持"
+  },
+  {
+    "id": "pt-0308",
+    "word": "risco",
+    "pos": "n.m.",
+    "zh": "风险"
+  },
+  {
+    "id": "pt-0309",
+    "word": "desafio",
+    "pos": "n.m.",
+    "zh": "挑战"
+  },
+  {
+    "id": "pt-0310",
+    "word": "sucesso",
+    "pos": "n.m.",
+    "zh": "成功"
+  },
+  {
+    "id": "pt-0311",
+    "word": "fracasso",
+    "pos": "n.m.",
+    "zh": "失败"
+  },
+  {
+    "id": "pt-0312",
+    "word": "aumento",
+    "pos": "n.m.",
+    "zh": "增加"
+  },
+  {
+    "id": "pt-0313",
+    "word": "recuo",
+    "pos": "n.m.",
+    "zh": "后退；下降"
+  },
+  {
+    "id": "pt-0314",
+    "word": "avanço",
+    "pos": "n.m.",
+    "zh": "进展"
+  },
+  {
+    "id": "pt-0315",
+    "word": "nível",
+    "pos": "n.m.",
+    "zh": "水平"
+  },
+  {
+    "id": "pt-0316",
+    "word": "sistema",
+    "pos": "n.m.",
+    "zh": "系统"
+  },
+  {
+    "id": "pt-0317",
+    "word": "modelo",
+    "pos": "n.m.",
+    "zh": "模型；模式"
+  },
+  {
+    "id": "pt-0318",
+    "word": "método",
+    "pos": "n.m.",
+    "zh": "方法"
+  },
+  {
+    "id": "pt-0319",
+    "word": "conteúdo",
+    "pos": "n.m.",
+    "zh": "内容"
+  },
+  {
+    "id": "pt-0320",
+    "word": "texto",
+    "pos": "n.m.",
+    "zh": "文本"
+  },
+  {
+    "id": "pt-0321",
+    "word": "tema",
+    "pos": "n.m.",
+    "zh": "主题"
+  },
+  {
+    "id": "pt-0322",
+    "word": "assunto",
+    "pos": "n.m.",
+    "zh": "主题；事情"
+  },
+  {
+    "id": "pt-0323",
+    "word": "detalhe",
+    "pos": "n.m.",
+    "zh": "细节"
+  },
+  {
+    "id": "pt-0324",
+    "word": "comentário",
+    "pos": "n.m.",
+    "zh": "评论"
+  },
+  {
+    "id": "pt-0325",
+    "word": "resumo",
+    "pos": "n.m.",
+    "zh": "总结"
+  },
+  {
+    "id": "pt-0326",
+    "word": "contexto",
+    "pos": "n.m.",
+    "zh": "背景；语境"
+  },
+  {
+    "id": "pt-0327",
+    "word": "sentido",
+    "pos": "n.m.",
+    "zh": "意思；方向；感觉"
+  },
+  {
+    "id": "pt-0328",
+    "word": "significado",
+    "pos": "n.m.",
+    "zh": "含义"
+  },
+  {
+    "id": "pt-0329",
+    "word": "objetivo",
+    "pos": "adj.",
+    "zh": "客观的"
+  },
+  {
+    "id": "pt-0330",
+    "word": "subjetivo",
+    "pos": "adj.",
+    "zh": "主观的"
+  },
+  {
+    "id": "pt-0331",
+    "word": "essencial",
+    "pos": "adj.",
+    "zh": "必要的；本质的"
+  },
+  {
+    "id": "pt-0332",
+    "word": "fundamental",
+    "pos": "adj.",
+    "zh": "基本的；重要的"
+  },
+  {
+    "id": "pt-0333",
+    "word": "principal",
+    "pos": "adj.",
+    "zh": "主要的"
+  },
+  {
+    "id": "pt-0334",
+    "word": "importante",
+    "pos": "adj.",
+    "zh": "重要的"
+  },
+  {
+    "id": "pt-0335",
+    "word": "possível",
+    "pos": "adj.",
+    "zh": "可能的"
+  },
+  {
+    "id": "pt-0336",
+    "word": "necessário",
+    "pos": "adj.",
+    "zh": "必要的"
+  },
+  {
+    "id": "pt-0337",
+    "word": "difícil",
+    "pos": "adj.",
+    "zh": "困难的"
+  },
+  {
+    "id": "pt-0338",
+    "word": "fácil",
+    "pos": "adj.",
+    "zh": "容易的"
+  },
+  {
+    "id": "pt-0339",
+    "word": "simples",
+    "pos": "adj.",
+    "zh": "简单的"
+  },
+  {
+    "id": "pt-0340",
+    "word": "complexo",
+    "pos": "adj.",
+    "zh": "复杂的"
+  },
+  {
+    "id": "pt-0341",
+    "word": "claro",
+    "pos": "adj.",
+    "zh": "清楚的"
+  },
+  {
+    "id": "pt-0342",
+    "word": "confuso",
+    "pos": "adj.",
+    "zh": "混乱的"
+  },
+  {
+    "id": "pt-0343",
+    "word": "certo",
+    "pos": "adj.",
+    "zh": "正确的；某个"
+  },
+  {
+    "id": "pt-0344",
+    "word": "errado",
+    "pos": "adj.",
+    "zh": "错误的"
+  },
+  {
+    "id": "pt-0345",
+    "word": "adequado",
+    "pos": "adj.",
+    "zh": "合适的"
+  },
+  {
+    "id": "pt-0346",
+    "word": "inadequado",
+    "pos": "adj.",
+    "zh": "不合适的"
+  },
+  {
+    "id": "pt-0347",
+    "word": "eficiente",
+    "pos": "adj.",
+    "zh": "高效的"
+  },
+  {
+    "id": "pt-0348",
+    "word": "útil",
+    "pos": "adj.",
+    "zh": "有用的"
+  },
+  {
+    "id": "pt-0349",
+    "word": "inútil",
+    "pos": "adj.",
+    "zh": "无用的"
+  },
+  {
+    "id": "pt-0350",
+    "word": "grave",
+    "pos": "adj.",
+    "zh": "严重的"
+  },
+  {
+    "id": "pt-0351",
+    "word": "ligeiro",
+    "pos": "adj.",
+    "zh": "轻微的；轻的"
+  },
+  {
+    "id": "pt-0352",
+    "word": "rápido",
+    "pos": "adj.",
+    "zh": "快的"
+  },
+  {
+    "id": "pt-0353",
+    "word": "lento",
+    "pos": "adj.",
+    "zh": "慢的"
+  },
+  {
+    "id": "pt-0354",
+    "word": "novo",
+    "pos": "adj.",
+    "zh": "新的"
+  },
+  {
+    "id": "pt-0355",
+    "word": "antigo",
+    "pos": "adj.",
+    "zh": "旧的；古老的"
+  },
+  {
+    "id": "pt-0356",
+    "word": "moderno",
+    "pos": "adj.",
+    "zh": "现代的"
+  },
+  {
+    "id": "pt-0357",
+    "word": "tradicional",
+    "pos": "adj.",
+    "zh": "传统的"
+  },
+  {
+    "id": "pt-0358",
+    "word": "geral",
+    "pos": "adj.",
+    "zh": "普遍的；总体的"
+  },
+  {
+    "id": "pt-0359",
+    "word": "global",
+    "pos": "adj.",
+    "zh": "全球的；整体的"
+  },
+  {
+    "id": "pt-0360",
+    "word": "local",
+    "pos": "adj.",
+    "zh": "当地的"
+  },
+  {
+    "id": "pt-0361",
+    "word": "regional",
+    "pos": "adj.",
+    "zh": "地区的"
+  },
+  {
+    "id": "pt-0362",
+    "word": "nacional",
+    "pos": "adj.",
+    "zh": "国家的"
+  },
+  {
+    "id": "pt-0363",
+    "word": "internacional",
+    "pos": "adj.",
+    "zh": "国际的"
+  },
+  {
+    "id": "pt-0364",
+    "word": "económico",
+    "pos": "adj.",
+    "zh": "经济的"
+  },
+  {
+    "id": "pt-0365",
+    "word": "financeiro",
+    "pos": "adj.",
+    "zh": "金融的"
+  },
+  {
+    "id": "pt-0366",
+    "word": "comercial",
+    "pos": "adj.",
+    "zh": "商业的"
+  },
+  {
+    "id": "pt-0367",
+    "word": "cultural",
+    "pos": "adj.",
+    "zh": "文化的"
+  },
+  {
+    "id": "pt-0368",
+    "word": "social",
+    "pos": "adj.",
+    "zh": "社会的"
+  },
+  {
+    "id": "pt-0369",
+    "word": "ambiental",
+    "pos": "adj.",
+    "zh": "环境的"
+  },
+  {
+    "id": "pt-0370",
+    "word": "sustentável",
+    "pos": "adj.",
+    "zh": "可持续的"
+  },
+  {
+    "id": "pt-0371",
+    "word": "digital",
+    "pos": "adj.",
+    "zh": "数字的"
+  },
+  {
+    "id": "pt-0372",
+    "word": "online",
+    "pos": "adj.",
+    "zh": "在线的"
+  },
+  {
+    "id": "pt-0373",
+    "word": "disponível",
+    "pos": "adj.",
+    "zh": "可获得的；有空的"
+  },
+  {
+    "id": "pt-0374",
+    "word": "responsável",
+    "pos": "adj.",
+    "zh": "负责的；负责任的"
+  },
+  {
+    "id": "pt-0375",
+    "word": "capaz",
+    "pos": "adj.",
+    "zh": "有能力的"
+  },
+  {
+    "id": "pt-0376",
+    "word": "estável",
+    "pos": "adj.",
+    "zh": "稳定的"
+  },
+  {
+    "id": "pt-0377",
+    "word": "instável",
+    "pos": "adj.",
+    "zh": "不稳定的"
+  },
+  {
+    "id": "pt-0378",
+    "word": "diverso",
+    "pos": "adj.",
+    "zh": "多样的"
+  },
+  {
+    "id": "pt-0379",
+    "word": "único",
+    "pos": "adj.",
+    "zh": "唯一的"
+  },
+  {
+    "id": "pt-0380",
+    "word": "relevante",
+    "pos": "adj.",
+    "zh": "相关的；重要的"
+  },
+  {
+    "id": "pt-0381",
+    "word": "adequado",
+    "pos": "adj.",
+    "zh": "适当的"
+  },
+  {
+    "id": "pt-0382",
+    "word": "frequente",
+    "pos": "adj.",
+    "zh": "频繁的"
+  },
+  {
+    "id": "pt-0383",
+    "word": "comum",
+    "pos": "adj.",
+    "zh": "常见的；普通的"
+  },
+  {
+    "id": "pt-0384",
+    "word": "raro",
+    "pos": "adj.",
+    "zh": "稀有的"
+  },
+  {
+    "id": "pt-0385",
+    "word": "público",
+    "pos": "adj.",
+    "zh": "公共的；公开的"
+  },
+  {
+    "id": "pt-0386",
+    "word": "privado",
+    "pos": "adj.",
+    "zh": "私人的"
+  },
+  {
+    "id": "pt-0387",
+    "word": "aberto",
+    "pos": "adj.",
+    "zh": "开放的；开的"
+  },
+  {
+    "id": "pt-0388",
+    "word": "fechado",
+    "pos": "adj.",
+    "zh": "关闭的"
+  },
+  {
+    "id": "pt-0389",
+    "word": "gratuito",
+    "pos": "adj.",
+    "zh": "免费的"
+  },
+  {
+    "id": "pt-0390",
+    "word": "pago",
+    "pos": "adj.",
+    "zh": "付费的"
+  },
+  {
+    "id": "pt-0391",
+    "word": "cheio",
+    "pos": "adj.",
+    "zh": "满的"
+  },
+  {
+    "id": "pt-0392",
+    "word": "vazio",
+    "pos": "adj.",
+    "zh": "空的"
+  },
+  {
+    "id": "pt-0393",
+    "word": "quente",
+    "pos": "adj.",
+    "zh": "热的"
+  },
+  {
+    "id": "pt-0394",
+    "word": "frio",
+    "pos": "adj.",
+    "zh": "冷的"
+  },
+  {
+    "id": "pt-0395",
+    "word": "doce",
+    "pos": "adj.",
+    "zh": "甜的"
+  },
+  {
+    "id": "pt-0396",
+    "word": "salgado",
+    "pos": "adj.",
+    "zh": "咸的"
+  },
+  {
+    "id": "pt-0397",
+    "word": "amargo",
+    "pos": "adj.",
+    "zh": "苦的"
+  },
+  {
+    "id": "pt-0398",
+    "word": "azedo",
+    "pos": "adj.",
+    "zh": "酸的"
+  },
+  {
+    "id": "pt-0399",
+    "word": "limpo",
+    "pos": "adj.",
+    "zh": "干净的"
+  },
+  {
+    "id": "pt-0400",
+    "word": "sujo",
+    "pos": "adj.",
+    "zh": "脏的"
+  },
+  {
+    "id": "pt-0401",
+    "word": "bonito",
+    "pos": "adj.",
+    "zh": "漂亮的"
+  },
+  {
+    "id": "pt-0402",
+    "word": "horrível",
+    "pos": "adj.",
+    "zh": "可怕的"
+  },
+  {
+    "id": "pt-0403",
+    "word": "feliz",
+    "pos": "adj.",
+    "zh": "高兴的"
+  },
+  {
+    "id": "pt-0404",
+    "word": "triste",
+    "pos": "adj.",
+    "zh": "悲伤的"
+  },
+  {
+    "id": "pt-0405",
+    "word": "cansado",
+    "pos": "adj.",
+    "zh": "累的"
+  },
+  {
+    "id": "pt-0406",
+    "word": "ocupado",
+    "pos": "adj.",
+    "zh": "忙的"
+  },
+  {
+    "id": "pt-0407",
+    "word": "livre",
+    "pos": "adj.",
+    "zh": "有空的；自由的"
+  },
+  {
+    "id": "pt-0408",
+    "word": "cedo",
+    "pos": "adv.",
+    "zh": "早地"
+  },
+  {
+    "id": "pt-0409",
+    "word": "tarde",
+    "pos": "adv.",
+    "zh": "晚地；迟地"
+  },
+  {
+    "id": "pt-0410",
+    "word": "já",
+    "pos": "adv.",
+    "zh": "已经；马上"
+  },
+  {
+    "id": "pt-0411",
+    "word": "ainda",
+    "pos": "adv.",
+    "zh": "还；仍然"
+  },
+  {
+    "id": "pt-0412",
+    "word": "sempre",
+    "pos": "adv.",
+    "zh": "总是"
+  },
+  {
+    "id": "pt-0413",
+    "word": "nunca",
+    "pos": "adv.",
+    "zh": "从不"
+  },
+  {
+    "id": "pt-0414",
+    "word": "às vezes",
+    "pos": "adv.",
+    "zh": "有时"
+  },
+  {
+    "id": "pt-0415",
+    "word": "talvez",
+    "pos": "adv.",
+    "zh": "也许"
+  },
+  {
+    "id": "pt-0416",
+    "word": "quase",
+    "pos": "adv.",
+    "zh": "几乎"
+  },
+  {
+    "id": "pt-0417",
+    "word": "muito",
+    "pos": "adv.",
+    "zh": "非常；很"
+  },
+  {
+    "id": "pt-0418",
+    "word": "pouco",
+    "pos": "adv.",
+    "zh": "很少；少量"
+  },
+  {
+    "id": "pt-0419",
+    "word": "bem",
+    "pos": "adv.",
+    "zh": "好地"
+  },
+  {
+    "id": "pt-0420",
+    "word": "mal",
+    "pos": "adv.",
+    "zh": "不好地；糟糕地"
+  },
+  {
+    "id": "pt-0421",
+    "word": "depressa",
+    "pos": "adv.",
+    "zh": "快速地"
+  },
+  {
+    "id": "pt-0422",
+    "word": "devagar",
+    "pos": "adv.",
+    "zh": "慢慢地"
+  },
+  {
+    "id": "pt-0423",
+    "word": "aqui",
+    "pos": "adv.",
+    "zh": "这里"
+  },
+  {
+    "id": "pt-0424",
+    "word": "ali",
+    "pos": "adv.",
+    "zh": "那里"
+  },
+  {
+    "id": "pt-0425",
+    "word": "lá",
+    "pos": "adv.",
+    "zh": "那边"
+  },
+  {
+    "id": "pt-0426",
+    "word": "longe",
+    "pos": "adv.",
+    "zh": "远地"
+  },
+  {
+    "id": "pt-0427",
+    "word": "perto",
+    "pos": "adv.",
+    "zh": "近地"
+  },
+  {
+    "id": "pt-0428",
+    "word": "dentro",
+    "pos": "adv.",
+    "zh": "在里面"
+  },
+  {
+    "id": "pt-0429",
+    "word": "fora",
+    "pos": "adv.",
+    "zh": "在外面"
+  },
+  {
+    "id": "pt-0430",
+    "word": "antes",
+    "pos": "adv.",
+    "zh": "以前；之前"
+  },
+  {
+    "id": "pt-0431",
+    "word": "depois",
+    "pos": "adv.",
+    "zh": "之后"
+  },
+  {
+    "id": "pt-0432",
+    "word": "logo",
+    "pos": "adv.",
+    "zh": "马上；因此"
+  },
+  {
+    "id": "pt-0433",
+    "word": "então",
+    "pos": "adv.",
+    "zh": "那么；当时"
+  },
+  {
+    "id": "pt-0434",
+    "word": "também",
+    "pos": "adv.",
+    "zh": "也"
+  },
+  {
+    "id": "pt-0435",
+    "word": "só",
+    "pos": "adv.",
+    "zh": "只；仅仅"
+  },
+  {
+    "id": "pt-0436",
+    "word": "mesmo",
+    "pos": "adv.",
+    "zh": "确实；甚至"
+  },
+  {
+    "id": "pt-0437",
+    "word": "principalmente",
+    "pos": "adv.",
+    "zh": "主要地"
+  },
+  {
+    "id": "pt-0438",
+    "word": "especialmente",
+    "pos": "adv.",
+    "zh": "尤其"
+  },
+  {
+    "id": "pt-0439",
+    "word": "exatamente",
+    "pos": "adv.",
+    "zh": "准确地"
+  },
+  {
+    "id": "pt-0440",
+    "word": "provavelmente",
+    "pos": "adv.",
+    "zh": "很可能地"
+  },
+  {
+    "id": "pt-0441",
+    "word": "naturalmente",
+    "pos": "adv.",
+    "zh": "自然地"
+  },
+  {
+    "id": "pt-0442",
+    "word": "infelizmente",
+    "pos": "adv.",
+    "zh": "不幸地"
+  },
+  {
+    "id": "pt-0443",
+    "word": "felizmente",
+    "pos": "adv.",
+    "zh": "幸运地"
+  },
+  {
+    "id": "pt-0444",
+    "word": "basicamente",
+    "pos": "adv.",
+    "zh": "基本上"
+  },
+  {
+    "id": "pt-0445",
+    "word": "atualmente",
+    "pos": "adv.",
+    "zh": "目前"
+  },
+  {
+    "id": "pt-0446",
+    "word": "finalmente",
+    "pos": "adv.",
+    "zh": "最后"
+  },
+  {
+    "id": "pt-0447",
+    "word": "recentemente",
+    "pos": "adv.",
+    "zh": "最近"
+  },
+  {
+    "id": "pt-0448",
+    "word": "antigamente",
+    "pos": "adv.",
+    "zh": "从前"
+  },
+  {
+    "id": "pt-0449",
+    "word": "claramente",
+    "pos": "adv.",
+    "zh": "清楚地"
+  },
+  {
+    "id": "pt-0450",
+    "word": "dificilmente",
+    "pos": "adv.",
+    "zh": "很难地"
+  },
+  {
+    "id": "pt-0451",
+    "word": "possivelmente",
+    "pos": "adv.",
+    "zh": "可能地"
+  },
+  {
+    "id": "pt-0452",
+    "word": "rapidamente",
+    "pos": "adv.",
+    "zh": "迅速地"
+  },
+  {
+    "id": "pt-0453",
+    "word": "lentamente",
+    "pos": "adv.",
+    "zh": "缓慢地"
+  },
+  {
+    "id": "pt-0454",
+    "word": "efetivamente",
+    "pos": "adv.",
+    "zh": "实际上；有效地"
+  },
+  {
+    "id": "pt-0455",
+    "word": "constantemente",
+    "pos": "adv.",
+    "zh": "不断地"
+  },
+  {
+    "id": "pt-0456",
+    "word": "igualmente",
+    "pos": "adv.",
+    "zh": "同样地"
+  },
+  {
+    "id": "pt-0457",
+    "word": "diretamente",
+    "pos": "adv.",
+    "zh": "直接地"
+  },
+  {
+    "id": "pt-0458",
+    "word": "indiretamente",
+    "pos": "adv.",
+    "zh": "间接地"
+  },
+  {
+    "id": "pt-0459",
+    "word": "plenamente",
+    "pos": "adv.",
+    "zh": "充分地"
+  },
+  {
+    "id": "pt-0460",
+    "word": "parcialmente",
+    "pos": "adv.",
+    "zh": "部分地"
+  },
+  {
+    "id": "pt-0461",
+    "word": "simultaneamente",
+    "pos": "adv.",
+    "zh": "同时地"
+  },
+  {
+    "id": "pt-0462",
+    "word": "tradicionalmente",
+    "pos": "adv.",
+    "zh": "传统上"
+  },
+  {
+    "id": "pt-0463",
+    "word": "culturalmente",
+    "pos": "adv.",
+    "zh": "在文化上"
+  },
+  {
+    "id": "pt-0464",
+    "word": "economicamente",
+    "pos": "adv.",
+    "zh": "在经济上"
+  },
+  {
+    "id": "pt-0465",
+    "word": "socialmente",
+    "pos": "adv.",
+    "zh": "在社会上"
+  },
+  {
+    "id": "pt-0466",
+    "word": "politicamente",
+    "pos": "adv.",
+    "zh": "在政治上"
+  },
+  {
+    "id": "pt-0467",
+    "word": "ambientalmente",
+    "pos": "adv.",
+    "zh": "在环境上"
+  },
+  {
+    "id": "pt-0468",
+    "word": "globalmente",
+    "pos": "adv.",
+    "zh": "全球范围地"
+  },
+  {
+    "id": "pt-0469",
+    "word": "regionalmente",
+    "pos": "adv.",
+    "zh": "地区性地"
+  },
+  {
+    "id": "pt-0470",
+    "word": "nacionalmente",
+    "pos": "adv.",
+    "zh": "在全国范围内"
+  },
+  {
+    "id": "pt-0471",
+    "word": "internacionalmente",
+    "pos": "adv.",
+    "zh": "国际上"
+  },
+  {
+    "id": "pt-0472",
+    "word": "virtualmente",
+    "pos": "adv.",
+    "zh": "虚拟地；几乎"
+  },
+  {
+    "id": "pt-0473",
+    "word": "presencialmente",
+    "pos": "adv.",
+    "zh": "面对面地"
+  },
+  {
+    "id": "pt-0474",
+    "word": "diariamente",
+    "pos": "adv.",
+    "zh": "每天地"
+  },
+  {
+    "id": "pt-0475",
+    "word": "semanalmente",
+    "pos": "adv.",
+    "zh": "每周地"
+  },
+  {
+    "id": "pt-0476",
+    "word": "mensalmente",
+    "pos": "adv.",
+    "zh": "每月地"
+  },
+  {
+    "id": "pt-0477",
+    "word": "anualmente",
+    "pos": "adv.",
+    "zh": "每年地"
+  },
+  {
+    "id": "pt-0478",
+    "word": "ocasionalmente",
+    "pos": "adv.",
+    "zh": "偶尔地"
+  },
+  {
+    "id": "pt-0479",
+    "word": "geralmente",
+    "pos": "adv.",
+    "zh": "通常"
+  },
+  {
+    "id": "pt-0480",
+    "word": "normalmente",
+    "pos": "adv.",
+    "zh": "通常；正常地"
+  },
+  {
+    "id": "pt-0481",
+    "word": "idealmente",
+    "pos": "adv.",
+    "zh": "理想情况下"
+  },
+  {
+    "id": "pt-0482",
+    "word": "realmente",
+    "pos": "adv.",
+    "zh": "实际上；真的"
+  },
+  {
+    "id": "pt-0483",
+    "word": "verdadeiramente",
+    "pos": "adv.",
+    "zh": "真正地"
+  },
+  {
+    "id": "pt-0484",
+    "word": "eficazmente",
+    "pos": "adv.",
+    "zh": "有效地"
+  },
+  {
+    "id": "pt-0485",
+    "word": "facilmente",
+    "pos": "adv.",
+    "zh": "容易地"
+  },
+  {
+    "id": "pt-0486",
+    "word": "seguramente",
+    "pos": "adv.",
+    "zh": "肯定地；安全地"
+  },
+  {
+    "id": "pt-0487",
+    "word": "precisamente",
+    "pos": "adv.",
+    "zh": "精确地；恰好"
+  },
+  {
+    "id": "pt-0488",
+    "word": "simplesmente",
+    "pos": "adv.",
+    "zh": "仅仅；简单地"
+  },
+  {
+    "id": "pt-0489",
+    "word": "aparentemente",
+    "pos": "adv.",
+    "zh": "表面上；显然"
+  },
+  {
+    "id": "pt-0490",
+    "word": "completamente",
+    "pos": "adv.",
+    "zh": "完全地"
+  },
+  {
+    "id": "pt-0491",
+    "word": "totalmente",
+    "pos": "adv.",
+    "zh": "全部地"
+  },
+  {
+    "id": "pt-0492",
+    "word": "paralelamente",
+    "pos": "adv.",
+    "zh": "平行地；与此同时"
+  },
+  {
+    "id": "pt-0493",
+    "word": "historicamente",
+    "pos": "adv.",
+    "zh": "从历史上看"
+  },
+  {
+    "id": "pt-0494",
+    "word": "literalmente",
+    "pos": "adv.",
+    "zh": "字面上地"
+  },
+  {
+    "id": "pt-0495",
+    "word": "profundamente",
+    "pos": "adv.",
+    "zh": "深刻地"
+  },
+  {
+    "id": "pt-0496",
+    "word": "amplamente",
+    "pos": "adv.",
+    "zh": "广泛地"
+  },
+  {
+    "id": "pt-0497",
+    "word": "intensamente",
+    "pos": "adv.",
+    "zh": "强烈地"
+  },
+  {
+    "id": "pt-0498",
+    "word": "fortemente",
+    "pos": "adv.",
+    "zh": "强烈地"
+  },
+  {
+    "id": "pt-0499",
+    "word": "ligeramente",
+    "pos": "adv.",
+    "zh": "轻微地"
+  },
+  {
+    "id": "pt-0500",
+    "word": "especializadamente",
+    "pos": "adv.",
+    "zh": "专业地"
+  },
+  {
+    "id": "pt-0501",
+    "word": "especificamente",
+    "pos": "adv.",
+    "zh": "具体地"
+  },
+  {
+    "id": "pt-0502",
+    "word": "tecnicamente",
+    "pos": "adv.",
+    "zh": "从技术上讲"
+  },
+  {
+    "id": "pt-0503",
+    "word": "legalmente",
+    "pos": "adv.",
+    "zh": "合法地"
+  },
+  {
+    "id": "pt-0504",
+    "word": "formalmente",
+    "pos": "adv.",
+    "zh": "正式地"
+  },
+  {
+    "id": "pt-0505",
+    "word": "informalmente",
+    "pos": "adv.",
+    "zh": "非正式地"
+  },
+  {
+    "id": "pt-0506",
+    "word": "academicamente",
+    "pos": "adv.",
+    "zh": "在学术上"
+  },
+  {
+    "id": "pt-0507",
+    "word": "linguisticamente",
+    "pos": "adv.",
+    "zh": "在语言上"
+  },
+  {
+    "id": "pt-0508",
+    "word": "praticamente",
+    "pos": "adv.",
+    "zh": "实际上；几乎"
+  },
+  {
+    "id": "pt-0509",
+    "word": "teoricamente",
+    "pos": "adv.",
+    "zh": "理论上"
+  },
+  {
+    "id": "pt-0510",
+    "word": "visivelmente",
+    "pos": "adv.",
+    "zh": "明显地"
+  },
+  {
+    "id": "pt-0511",
+    "word": "inevitavelmente",
+    "pos": "adv.",
+    "zh": "不可避免地"
+  },
+  {
+    "id": "pt-0512",
+    "word": "seguidamente",
+    "pos": "adv.",
+    "zh": "接着"
+  },
+  {
+    "id": "pt-0513",
+    "word": "posteriormente",
+    "pos": "adv.",
+    "zh": "后来；随后"
+  },
+  {
+    "id": "pt-0514",
+    "word": "anteriormente",
+    "pos": "adv.",
+    "zh": "先前"
+  },
+  {
+    "id": "pt-0515",
+    "word": "progressivamente",
+    "pos": "adv.",
+    "zh": "逐渐地"
+  },
+  {
+    "id": "pt-0516",
+    "word": "consideravelmente",
+    "pos": "adv.",
+    "zh": "相当大地"
+  },
+  {
+    "id": "pt-0517",
+    "word": "particularmente",
+    "pos": "adv.",
+    "zh": "尤其；特别地"
+  },
+  {
+    "id": "pt-0518",
+    "word": "genericamente",
+    "pos": "adv.",
+    "zh": "笼统地"
+  },
+  {
+    "id": "pt-0519",
+    "word": "curiosamente",
+    "pos": "adv.",
+    "zh": "有趣地；好奇地"
+  },
+  {
+    "id": "pt-0520",
+    "word": "seriamente",
+    "pos": "adv.",
+    "zh": "认真地"
+  },
+  {
+    "id": "pt-0521",
+    "word": "francamente",
+    "pos": "adv.",
+    "zh": "坦率地"
+  },
+  {
+    "id": "pt-0522",
+    "word": "honestamente",
+    "pos": "adv.",
+    "zh": "诚实地"
+  },
+  {
+    "id": "pt-0523",
+    "word": "certamente",
+    "pos": "adv.",
+    "zh": "当然；肯定地"
+  },
+  {
+    "id": "pt-0524",
+    "word": "inclusive",
+    "pos": "adv.",
+    "zh": "甚至；包括在内地"
+  },
+  {
+    "id": "pt-0525",
+    "word": "sobretudo",
+    "pos": "adv.",
+    "zh": "尤其；首先"
+  },
+  {
+    "id": "pt-0526",
+    "word": "aliás",
+    "pos": "adv.",
+    "zh": "此外；实际上"
+  },
+  {
+    "id": "pt-0527",
+    "word": "portanto",
+    "pos": "adv.",
+    "zh": "因此"
+  },
+  {
+    "id": "pt-0528",
+    "word": "contudo",
+    "pos": "adv.",
+    "zh": "然而"
+  },
+  {
+    "id": "pt-0529",
+    "word": "entretanto",
+    "pos": "adv.",
+    "zh": "与此同时；然而"
+  },
+  {
+    "id": "pt-0530",
+    "word": "todavia",
+    "pos": "adv.",
+    "zh": "然而"
+  },
+  {
+    "id": "pt-0531",
+    "word": "além disso",
+    "pos": "adv.",
+    "zh": "此外"
+  },
+  {
+    "id": "pt-0532",
+    "word": "por isso",
+    "pos": "adv.",
+    "zh": "因此"
+  },
+  {
+    "id": "pt-0533",
+    "word": "por exemplo",
+    "pos": "adv.",
+    "zh": "例如"
+  },
+  {
+    "id": "pt-0534",
+    "word": "em geral",
+    "pos": "adv.",
+    "zh": "一般来说"
+  },
+  {
+    "id": "pt-0535",
+    "word": "sob o mesmo ponto de vista",
+    "pos": "adv.",
+    "zh": "从同样的角度来看"
+  },
+  {
+    "id": "pt-0536",
+    "word": "ao mesmo tempo",
+    "pos": "adv.",
+    "zh": "同时"
+  },
+  {
+    "id": "pt-0537",
+    "word": "de facto",
+    "pos": "adv.",
+    "zh": "事实上"
+  },
+  {
+    "id": "pt-0538",
+    "word": "de modo geral",
+    "pos": "adv.",
+    "zh": "总体上"
+  },
+  {
+    "id": "pt-0539",
+    "word": "de acordo com",
+    "pos": "adv.",
+    "zh": "根据"
+  },
+  {
+    "id": "pt-0540",
+    "word": "em primeiro lugar",
+    "pos": "adv.",
+    "zh": "首先"
+  },
+  {
+    "id": "pt-0541",
+    "word": "em segundo lugar",
+    "pos": "adv.",
+    "zh": "其次"
+  },
+  {
+    "id": "pt-0542",
+    "word": "por outro lado",
+    "pos": "adv.",
+    "zh": "另一方面"
+  },
+  {
+    "id": "pt-0543",
+    "word": "por um lado",
+    "pos": "adv.",
+    "zh": "一方面"
+  },
+  {
+    "id": "pt-0544",
+    "word": "não só",
+    "pos": "adv.",
+    "zh": "不仅"
+  },
+  {
+    "id": "pt-0545",
+    "word": "mas também",
+    "pos": "adv.",
+    "zh": "而且"
+  },
+  {
+    "id": "pt-0546",
+    "word": "por fim",
+    "pos": "adv.",
+    "zh": "最后"
+  },
+  {
+    "id": "pt-0547",
+    "word": "em conclusão",
+    "pos": "adv.",
+    "zh": "总之"
+  },
+  {
+    "id": "pt-0548",
+    "word": "acima de tudo",
+    "pos": "adv.",
+    "zh": "最重要的是"
+  },
+  {
+    "id": "pt-0549",
+    "word": "ainda por cima",
+    "pos": "adv.",
+    "zh": "更糟的是；此外"
+  },
+  {
+    "id": "pt-0550",
+    "word": "em vez de",
+    "pos": "adv.",
+    "zh": "而不是"
+  },
+  {
+    "id": "pt-0551",
+    "word": "até mesmo",
+    "pos": "adv.",
+    "zh": "甚至"
+  },
+  {
+    "id": "pt-0552",
+    "word": "quase nunca",
+    "pos": "adv.",
+    "zh": "几乎从不"
+  },
+  {
+    "id": "pt-0553",
+    "word": "de repente",
+    "pos": "adv.",
+    "zh": "突然"
+  },
+  {
+    "id": "pt-0554",
+    "word": "por vezes",
+    "pos": "adv.",
+    "zh": "有时"
+  },
+  {
+    "id": "pt-0555",
+    "word": "necessariamente",
+    "pos": "adv.",
+    "zh": "必然地；必要地"
+  },
+  {
+    "id": "pt-0556",
+    "word": "nitidamente",
+    "pos": "adv.",
+    "zh": "清晰地"
+  },
+  {
+    "id": "pt-0557",
+    "word": "inicialmente",
+    "pos": "adv.",
+    "zh": "最初地"
+  },
+  {
+    "id": "pt-0558",
+    "word": "inclusivamente",
+    "pos": "adv.",
+    "zh": "甚至；包括地"
+  },
+  {
+    "id": "pt-0559",
+    "word": "concretamente",
+    "pos": "adv.",
+    "zh": "具体地"
+  },
+  {
+    "id": "pt-0560",
+    "word": "atenciosamente",
+    "pos": "adv.",
+    "zh": "恭敬地"
+  },
+  {
+    "id": "pt-0561",
+    "word": "inesquecivelmente",
+    "pos": "adv.",
+    "zh": "无法被遗忘地"
+  },
+  {
+    "id": "pt-0562",
+    "word": "jamais",
+    "pos": "adv.",
+    "zh": "绝不会；绝对不"
+  },
+  {
+    "id": "pt-0563",
+    "word": "porém",
+    "pos": "adv.",
+    "zh": "然而"
+  },
+  {
+    "id": "pt-0564",
+    "word": "exclusivamente",
+    "pos": "adv.",
+    "zh": "专门；仅仅"
+  },
+  {
+    "id": "pt-0565",
+    "word": "maioritariamente",
+    "pos": "adv.",
+    "zh": "绝大部分"
+  },
+  {
+    "id": "pt-0566",
+    "word": "nomeadamente",
+    "pos": "adv.",
+    "zh": "特别是"
+  },
+  {
+    "id": "pt-0638",
+    "word": "cigarra",
+    "pos": "n.f.",
+    "zh": "蝉"
+  },
+  {
+    "id": "pt-0639",
+    "word": "ninho",
+    "pos": "n.m.",
+    "zh": "鸟窝"
+  },
+  {
+    "id": "pt-0640",
+    "word": "suborno",
+    "pos": "n.m.",
+    "zh": "贿赂"
+  },
+  {
+    "id": "pt-0641",
+    "word": "gorjeta",
+    "pos": "n.f.",
+    "zh": "小费"
+  },
+  {
+    "id": "pt-0642",
+    "word": "sotaque",
+    "pos": "n.m.",
+    "zh": "口音"
+  },
+  {
+    "id": "pt-0643",
+    "word": "toucinho",
+    "pos": "n.m.",
+    "zh": "肥肉、猪油、培根"
+  },
+  {
+    "id": "pt-0644",
+    "word": "feitiço",
+    "pos": "n.m.",
+    "zh": "咒语、符咒"
+  },
+  {
+    "id": "pt-0645",
+    "word": "calhambeque",
+    "pos": "n.m.",
+    "zh": "旧车"
+  },
+  {
+    "id": "pt-0646",
+    "word": "caixão",
+    "pos": "n.m.",
+    "zh": "棺材"
+  },
+  {
+    "id": "pt-0647",
+    "word": "segredo",
+    "pos": "n.m.",
+    "zh": "秘密"
+  },
+  {
+    "id": "pt-0648",
+    "word": "cobertor",
+    "pos": "n.m.",
+    "zh": "毯子"
+  },
+  {
+    "id": "pt-0649",
+    "word": "mastim",
+    "pos": "n.m.",
+    "zh": "獒犬、大型看门狗"
+  },
+  {
+    "id": "pt-0650",
+    "word": "bafo",
+    "pos": "n.m.",
+    "zh": "口气"
+  },
+  {
+    "id": "pt-0651",
+    "word": "berço",
+    "pos": "n.m.",
+    "zh": "摇篮"
+  },
+  {
+    "id": "pt-0652",
+    "word": "espião",
+    "pos": "n.m.",
+    "zh": "间谍"
+  },
+  {
+    "id": "pt-0653",
+    "word": "pelourinho",
+    "pos": "n.m.",
+    "zh": "鞭刑柱"
+  },
+  {
+    "id": "pt-0654",
+    "word": "sotão",
+    "pos": "n.m.",
+    "zh": "阁楼"
+  },
+  {
+    "id": "pt-0655",
+    "word": "assobio",
+    "pos": "n.m.",
+    "zh": "口哨声"
+  },
+  {
+    "id": "pt-0656",
+    "word": "cofre",
+    "pos": "n.m.",
+    "zh": "保险箱"
+  },
+  {
+    "id": "pt-0657",
+    "word": "pirilampo",
+    "pos": "n.m.",
+    "zh": "萤火虫"
+  },
+  {
+    "id": "pt-0658",
+    "word": "martelo",
+    "pos": "n.m.",
+    "zh": "锤子"
+  },
+  {
+    "id": "pt-0659",
+    "word": "morcego",
+    "pos": "n.m.",
+    "zh": "蝙蝠"
+  },
+  {
+    "id": "pt-0660",
+    "word": "discurso",
+    "pos": "n.m.",
+    "zh": "演讲、话语"
+  },
+  {
+    "id": "pt-0661",
+    "word": "zumbido",
+    "pos": "n.m.",
+    "zh": "嗡嗡声"
+  },
+  {
+    "id": "pt-0662",
+    "word": "tornozelo",
+    "pos": "n.m.",
+    "zh": "脚踝"
+  },
+  {
+    "id": "pt-0663",
+    "word": "reforço",
+    "pos": "n.m.",
+    "zh": "加强、补充、加固"
+  },
+  {
+    "id": "pt-0664",
+    "word": "espólio",
+    "pos": "n.m.",
+    "zh": "遗产、战利品、收藏品"
+  },
+  {
+    "id": "pt-0665",
+    "word": "pântano",
+    "pos": "n.m.",
+    "zh": "沼泽"
+  },
+  {
+    "id": "pt-0666",
+    "word": "chimpanzé",
+    "pos": "n.m.",
+    "zh": "黑猩猩"
+  },
+  {
+    "id": "pt-0667",
+    "word": "porco-espinho",
+    "pos": "n.m.",
+    "zh": "豪猪"
+  },
+  {
+    "id": "pt-0668",
+    "word": "pântano",
+    "pos": "n.m.",
+    "zh": "沼泽"
+  },
+  {
+    "id": "pt-0669",
+    "word": "manjericão",
+    "pos": "n.m.",
+    "zh": "罗勒"
+  },
+  {
+    "id": "pt-0670",
+    "word": "diabo",
+    "pos": "n.m.",
+    "zh": "恶魔"
+  },
+  {
+    "id": "pt-0671",
+    "word": "seio",
+    "pos": "n.m.",
+    "zh": "胸膛、怀抱、内部"
+  },
+  {
+    "id": "pt-0672",
+    "word": "susto",
+    "pos": "n.m.",
+    "zh": "惊吓"
+  },
+  {
+    "id": "pt-0673",
+    "word": "interrogatório",
+    "pos": "n.m.",
+    "zh": "审问"
+  },
+  {
+    "id": "pt-0674",
+    "word": "unicórnio",
+    "pos": "n.m.",
+    "zh": "独角兽"
+  },
+  {
+    "id": "pt-0675",
+    "word": "cassetete",
+    "pos": "n.m.",
+    "zh": "警棍"
+  },
+  {
+    "id": "pt-0676",
+    "word": "fiel",
+    "pos": "adj.",
+    "zh": "忠诚的"
+  },
+  {
+    "id": "pt-0677",
+    "word": "heterogéneo",
+    "pos": "adj.",
+    "zh": "多样的"
+  },
+  {
+    "id": "pt-0678",
+    "word": "móvel",
+    "pos": "adj.",
+    "zh": "可移动的"
+  },
+  {
+    "id": "pt-0679",
+    "word": "morto",
+    "pos": "adj.",
+    "zh": "死了的"
+  },
+  {
+    "id": "pt-0680",
+    "word": "destemido",
+    "pos": "adj.",
+    "zh": "无畏的"
+  },
+  {
+    "id": "pt-0681",
+    "word": "gelado",
+    "pos": "adj.",
+    "zh": "冰冷的"
+  },
+  {
+    "id": "pt-0682",
+    "word": "agnóstico",
+    "pos": "adj.",
+    "zh": "不可知论的"
+  },
+  {
+    "id": "pt-0683",
+    "word": "profano",
+    "pos": "adj.",
+    "zh": "世俗的、外行的、不敬神的"
+  },
+  {
+    "id": "pt-0684",
+    "word": "voador",
+    "pos": "adj.",
+    "zh": "飞行的"
+  },
+  {
+    "id": "pt-0685",
+    "word": "religioso",
+    "pos": "adj.",
+    "zh": "宗教的"
+  },
+  {
+    "id": "pt-0686",
+    "word": "atrevido",
+    "pos": "adj.",
+    "zh": "大胆的、厚脸皮的"
+  },
+  {
+    "id": "pt-0687",
+    "word": "louvável",
+    "pos": "adj.",
+    "zh": "值得称赞的"
+  },
+  {
+    "id": "pt-0688",
+    "word": "sossegado",
+    "pos": "adj.",
+    "zh": "平静的"
+  },
+  {
+    "id": "pt-0689",
+    "word": "parvo",
+    "pos": "adj.",
+    "zh": "傻的"
+  },
+  {
+    "id": "pt-0690",
+    "word": "íngreme",
+    "pos": "adj.",
+    "zh": "陡峭的"
+  },
+  {
+    "id": "pt-0691",
+    "word": "engoelhado",
+    "pos": "adj.",
+    "zh": "皱巴巴的"
+  },
+  {
+    "id": "pt-0692",
+    "word": "inspirado",
+    "pos": "adj.",
+    "zh": "有灵感的"
+  },
+  {
+    "id": "pt-0693",
+    "word": "arguto",
+    "pos": "adj.",
+    "zh": "敏锐的"
+  },
+  {
+    "id": "pt-0694",
+    "word": "esquisito",
+    "pos": "adj.",
+    "zh": "奇怪的"
+  },
+  {
+    "id": "pt-0695",
+    "word": "bulhento",
+    "pos": "adj.",
+    "zh": "吵闹的"
+  },
+  {
+    "id": "pt-0696",
+    "word": "inconsolável",
+    "pos": "adj.",
+    "zh": "伤心欲绝的"
+  },
+  {
+    "id": "pt-0697",
+    "word": "soturno",
+    "pos": "adj.",
+    "zh": "阴郁的"
+  },
+  {
+    "id": "pt-0698",
+    "word": "idêntico",
+    "pos": "adj.",
+    "zh": "一模一样的"
+  },
+  {
+    "id": "pt-0699",
+    "word": "desimportante",
+    "pos": "adj.",
+    "zh": "不重要的"
+  },
+  {
+    "id": "pt-0700",
+    "word": "ardente",
+    "pos": "adj.",
+    "zh": "炽热的"
+  },
+  {
+    "id": "pt-0701",
+    "word": "comovente",
+    "pos": "adj.",
+    "zh": "感人的"
+  },
+  {
+    "id": "pt-0702",
+    "word": "gigantesco",
+    "pos": "adj.",
+    "zh": "巨大的"
+  },
+  {
+    "id": "pt-0703",
+    "word": "sobredesenvolvido",
+    "pos": "adj.",
+    "zh": "过度发达的"
+  },
+  {
+    "id": "pt-0704",
+    "word": "bandoleiro",
+    "pos": "adj.",
+    "zh": "土匪似的、强盗般的"
+  },
+  {
+    "id": "pt-0705",
+    "word": "vaidoso",
+    "pos": "adj.",
+    "zh": "虚荣的"
+  },
+  {
+    "id": "pt-0706",
+    "word": "passageiro",
+    "pos": "adj.",
+    "zh": "短暂的；乘客的"
+  },
+  {
+    "id": "pt-0707",
+    "word": "estridente",
+    "pos": "adj.",
+    "zh": "刺耳的"
+  },
+  {
+    "id": "pt-0708",
+    "word": "intricado",
+    "pos": "adj.",
+    "zh": "复杂难解的"
+  },
+  {
+    "id": "pt-0709",
+    "word": "antiético",
+    "pos": "adj.",
+    "zh": "不道德的"
+  },
+  {
+    "id": "pt-0710",
+    "word": "alucinante",
+    "pos": "adj.",
+    "zh": "令人目眩的；震撼的"
+  },
+  {
+    "id": "pt-0711",
+    "word": "íntegro",
+    "pos": "adj.",
+    "zh": "正直的、完整的"
+  },
+  {
+    "id": "pt-0712",
+    "word": "ingrato",
+    "pos": "adj.",
+    "zh": "忘恩负义的；艰难的"
+  },
+  {
+    "id": "pt-0713",
+    "word": "ruidoso",
+    "pos": "adj.",
+    "zh": "嘈杂的"
+  },
+  {
+    "id": "pt-0714",
+    "word": "eletrificado",
+    "pos": "adj.",
+    "zh": "通电的"
+  },
+  {
+    "id": "pt-0715",
+    "word": "brilhante",
+    "pos": "adj.",
+    "zh": "闪亮的；出色的"
+  },
+  {
+    "id": "pt-0716",
+    "word": "equilibrado",
+    "pos": "adj.",
+    "zh": "平衡的"
+  },
+  {
+    "id": "pt-0717",
+    "word": "furioso",
+    "pos": "adj.",
+    "zh": "狂怒的"
+  },
+  {
+    "id": "pt-0718",
+    "word": "modesto",
+    "pos": "adj.",
+    "zh": "谦虚的；适度的"
+  },
+  {
+    "id": "pt-0719",
+    "word": "desajeitado",
+    "pos": "adj.",
+    "zh": "笨拙的"
+  },
+  {
+    "id": "pt-0720",
+    "word": "desavergonhado",
+    "pos": "adj.",
+    "zh": "厚颜无耻的"
+  },
+  {
+    "id": "pt-0721",
+    "word": "remoto",
+    "pos": "adj.",
+    "zh": "偏远的"
+  },
+  {
+    "id": "pt-0722",
+    "word": "farto",
+    "pos": "adj.",
+    "zh": "厌烦的、充足的"
+  },
+  {
+    "id": "pt-0723",
+    "word": "fugaz",
+    "pos": "adj.",
+    "zh": "短暂的"
+  },
+  {
+    "id": "pt-0724",
+    "word": "audível",
+    "pos": "adj.",
+    "zh": "听得见的"
+  },
+  {
+    "id": "pt-0725",
+    "word": "curvilíneo",
+    "pos": "adj.",
+    "zh": "曲线的"
+  },
+  {
+    "id": "pt-0726",
+    "word": "gordo",
+    "pos": "adj.",
+    "zh": "胖的"
+  },
+  {
+    "id": "pt-0727",
+    "word": "cômico",
+    "pos": "adj.",
+    "zh": "滑稽的"
+  },
+  {
+    "id": "pt-0728",
+    "word": "pecador",
+    "pos": "adj.",
+    "zh": "有罪的、犯错的"
+  },
+  {
+    "id": "pt-0729",
+    "word": "versátil",
+    "pos": "adj.",
+    "zh": "多才多艺的"
+  },
+  {
+    "id": "pt-0730",
+    "word": "legítimo",
+    "pos": "adj.",
+    "zh": "合法的、正当的"
+  },
+  {
+    "id": "pt-0731",
+    "word": "freneticamente",
+    "pos": "adv.",
+    "zh": "疯狂地"
+  },
+  {
+    "id": "pt-0732",
+    "word": "secretamente",
+    "pos": "adv.",
+    "zh": "秘密地"
+  },
+  {
+    "id": "pt-0733",
+    "word": "misteriosamente",
+    "pos": "adv.",
+    "zh": "神秘地"
+  },
+  {
+    "id": "pt-0734",
+    "word": "atipicamente",
+    "pos": "adv.",
+    "zh": "异常地、不寻常地"
+  },
+  {
+    "id": "pt-0735",
+    "word": "monumentalmente",
+    "pos": "adv.",
+    "zh": "极其、非常"
+  },
+  {
+    "id": "pt-0736",
+    "word": "absolutamente",
+    "pos": "adv.",
+    "zh": "绝对地"
+  },
+  {
+    "id": "pt-0737",
+    "word": "animadamente",
+    "pos": "adv.",
+    "zh": "生动地"
+  },
+  {
+    "id": "pt-0738",
+    "word": "assustadoramente",
+    "pos": "adv.",
+    "zh": "吓人地"
+  },
+  {
+    "id": "pt-0739",
+    "word": "aleatoriamente",
+    "pos": "adv.",
+    "zh": "随机地"
+  },
+  {
+    "id": "pt-0740",
+    "word": "despreocupadamente",
+    "pos": "adv.",
+    "zh": "毫不在意地"
+  },
+  {
+    "id": "pt-0741",
+    "word": "assertivamente",
+    "pos": "adv.",
+    "zh": "坚定地"
+  },
+  {
+    "id": "pt-0742",
+    "word": "descaradamente",
+    "pos": "adv.",
+    "zh": "厚颜无耻地"
+  },
+  {
+    "id": "pt-0743",
+    "word": "pedalar",
+    "pos": "v.",
+    "zh": "骑自行车"
+  },
+  {
+    "id": "pt-0744",
+    "word": "suspirar",
+    "pos": "v.",
+    "zh": "叹息"
+  },
+  {
+    "id": "pt-0745",
+    "word": "pastar",
+    "pos": "v.",
+    "zh": "吃草"
+  },
+  {
+    "id": "pt-0746",
+    "word": "alastrar",
+    "pos": "v.",
+    "zh": "蔓延"
+  },
+  {
+    "id": "pt-0747",
+    "word": "encostar",
+    "pos": "v.",
+    "zh": "靠、挨着"
+  },
+  {
+    "id": "pt-0748",
+    "word": "especular",
+    "pos": "v.",
+    "zh": "推测、投机"
+  },
+  {
+    "id": "pt-0749",
+    "word": "permanecer",
+    "pos": "v.",
+    "zh": "停留、保持"
+  },
+  {
+    "id": "pt-0750",
+    "word": "sussurrar",
+    "pos": "v.",
+    "zh": "低语"
+  },
+  {
+    "id": "pt-0751",
+    "word": "conduzir",
+    "pos": "v.",
+    "zh": "驾驶、引导"
+  },
+  {
+    "id": "pt-0752",
+    "word": "interferir",
+    "pos": "v.",
+    "zh": "干涉"
+  },
+  {
+    "id": "pt-0753",
+    "word": "persuadir",
+    "pos": "v.",
+    "zh": "说服"
+  },
+  {
+    "id": "pt-0754",
+    "word": "farejar",
+    "pos": "v.",
+    "zh": "嗅、觉察"
+  },
+  {
+    "id": "pt-0755",
+    "word": "sancionar",
+    "pos": "v.",
+    "zh": "批准、制裁"
+  },
+  {
+    "id": "pt-0756",
+    "word": "escalar",
+    "pos": "v.",
+    "zh": "攀登"
+  },
+  {
+    "id": "pt-0757",
+    "word": "censurar",
+    "pos": "v.",
+    "zh": "批评、审查"
+  },
+  {
+    "id": "pt-0758",
+    "word": "apunhalar",
+    "pos": "v.",
+    "zh": "刺伤"
+  },
+  {
+    "id": "pt-0759",
+    "word": "namoriscar",
+    "pos": "v.",
+    "zh": "调情"
+  },
+  {
+    "id": "pt-0760",
+    "word": "assobiar",
+    "pos": "v.",
+    "zh": "吹口哨"
+  },
+  {
+    "id": "pt-0761",
+    "word": "vacilar",
+    "pos": "v.",
+    "zh": "犹豫、摇晃"
+  },
+  {
+    "id": "pt-0762",
+    "word": "rejeitar",
+    "pos": "v.",
+    "zh": "拒绝"
+  },
+  {
+    "id": "pt-0763",
+    "word": "estrear",
+    "pos": "v.",
+    "zh": "首次使用"
+  },
+  {
+    "id": "pt-0764",
+    "word": "zangar",
+    "pos": "v.",
+    "zh": "使生气"
+  },
+  {
+    "id": "pt-0765",
+    "word": "disfarçar",
+    "pos": "v.",
+    "zh": "伪装；掩饰"
+  },
+  {
+    "id": "pt-0766",
+    "word": "sobreviver",
+    "pos": "v.",
+    "zh": "幸存、活下来"
+  },
+  {
+    "id": "pt-0767",
+    "word": "surtir",
+    "pos": "v.",
+    "zh": "生效、有作用"
+  },
+  {
+    "id": "pt-0768",
+    "word": "sacanear",
+    "pos": "v.",
+    "zh": "捉弄、坑害"
+  },
+  {
+    "id": "pt-0769",
+    "word": "enlouquecer",
+    "pos": "v.",
+    "zh": "使发疯"
+  },
+  {
+    "id": "pt-0770",
+    "word": "desenrolar",
+    "pos": "v.",
+    "zh": "展开、发展"
+  },
+  {
+    "id": "pt-0771",
+    "word": "sedar",
+    "pos": "v.",
+    "zh": "使镇静"
+  },
+  {
+    "id": "pt-0772",
+    "word": "suar",
+    "pos": "v.",
+    "zh": "出汗"
+  },
+  {
+    "id": "pt-0773",
+    "word": "capturar",
+    "pos": "v.",
+    "zh": "捕获"
+  },
+  {
+    "id": "pt-0774",
+    "word": "disparar",
+    "pos": "v.",
+    "zh": "开枪；暴涨"
+  },
+  {
+    "id": "pt-0775",
+    "word": "interrogar",
+    "pos": "v.",
+    "zh": "审问"
+  },
+  {
+    "id": "pt-0776",
+    "word": "interligado",
+    "pos": "adj.",
+    "zh": "相互交织"
+  }
+]
