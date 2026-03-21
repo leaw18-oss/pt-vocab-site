@@ -8,12 +8,13 @@
 </head>
 <body>
   <main class="app">
-    <header class="header">
-      <h1>葡语单词学习</h1>
-      <p class="subtitle">给出葡语单词，选择正确中文释义</p>
-    </header>
-
     <section class="card">
+      <div class="settings-row">
+        <label for="dailyCount">今日背诵数量</label>
+        <input id="dailyCount" type="number" min="5" max="100" value="20" />
+        <button id="startBtn" type="button">开始本轮</button>
+      </div>
+
       <div class="topbar">
         <span id="progress">加载中...</span>
         <span id="score">答对 0 题</span>
