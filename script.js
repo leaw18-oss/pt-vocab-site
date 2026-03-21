@@ -5,6 +5,10 @@ let currentIndex = 0;
 let sessionTarget = 20;
 let correctCount = 0;
 let totalAnswered = 0;
+let wrongPool = [];
+let reviewQueue = [];
+let isReviewPhase = false;
+let pendingReviewStart = false;
 
 const wordEl = document.getElementById('word');
 const posEl = document.getElementById('pos');
@@ -37,7 +41,9 @@ function getWrongOptions(answer, count) {
 }
 
 function updateStatus() {
-  progressEl.textContent = `本轮 ${Math.min(currentIndex + 1, studyQueue.length)} / ${studyQueue.length} · 词库 ${vocabList.length} 词`;
+  const activeQueue = isReviewPhase ? reviewQueue : studyQueue;
+  const phaseLabel = isReviewPhase ? '错词复习' : '本轮';
+  progressEl.textContent = `${phaseLabel} ${Math.min(currentIndex + 1, activeQueue.length)} / ${activeQueue.length} · 词库 ${vocabList.length} 词`;
   scoreEl.textContent = `答对 ${correctCount} / ${totalAnswered}`;
 }
 
@@ -49,12 +55,46 @@ function renderCompletion() {
   feedbackEl.textContent = '可以重新设定数量，再开始一轮。';
   feedbackEl.className = 'feedback correct';
   nextBtn.disabled = true;
+  const finalQueue = isReviewPhase ? reviewQueue : studyQueue;
+  const phaseLabel = isReviewPhase ? '错词复习' : '本轮';
+  progressEl.textContent = `${phaseLabel} ${finalQueue.length} / ${finalQueue.length} · 词库 ${vocabList.length} 词`;
+  scoreEl.textContent = `答对 ${correctCount} / ${totalAnswered}`;
+}
+
+function renderReviewTransition() {
+  currentQuestion = null;
+  wordEl.textContent = '本轮完成';
+  posEl.textContent = `错词 ${reviewQueue.length} 个，准备复习。`;
+  choicesEl.innerHTML = '';
+  feedbackEl.textContent = '进入错词复习';
+  feedbackEl.className = 'feedback wrong';
+  nextBtn.disabled = false;
   progressEl.textContent = `本轮 ${studyQueue.length} / ${studyQueue.length} · 词库 ${vocabList.length} 词`;
   scoreEl.textContent = `答对 ${correctCount} / ${totalAnswered}`;
 }
 
 function renderQuestion() {
-  if (!studyQueue.length || currentIndex >= studyQueue.length) {
+  if (!studyQueue.length) {
+    renderCompletion();
+    return;
+  }
+
+  if (pendingReviewStart) {
+    renderReviewTransition();
+    return;
+  }
+
+  const activeQueue = isReviewPhase ? reviewQueue : studyQueue;
+
+  if (currentIndex >= activeQueue.length) {
+    if (!isReviewPhase && wrongPool.length > 0) {
+      reviewQueue = shuffle([...wrongPool]);
+      isReviewPhase = true;
+      pendingReviewStart = true;
+      currentIndex = 0;
+      renderReviewTransition();
+      return;
+    }
     renderCompletion();
     return;
   }
@@ -63,17 +103,19 @@ function renderQuestion() {
   feedbackEl.className = 'feedback';
   nextBtn.disabled = true;
 
-  const item = studyQueue[currentIndex];
+  const item = activeQueue[currentIndex];
   const wrongOptions = getWrongOptions(item.zh, 3);
   const allOptions = shuffle([item.zh, ...wrongOptions]);
 
   currentQuestion = {
+    word: item.word,
+    pos: item.pos || item.n || '',
     answer: item.zh,
     options: allOptions
   };
 
   wordEl.textContent = item.word;
-  posEl.textContent = item.pos || '';
+  posEl.textContent = item.pos || item.n || '';
   choicesEl.innerHTML = '';
 
   allOptions.forEach(option => {
@@ -101,6 +143,16 @@ function handleAnswer(button, selected) {
     feedbackEl.textContent = '答对了。';
     feedbackEl.className = 'feedback correct';
   } else {
+    if (!isReviewPhase) {
+      const alreadyInPool = wrongPool.some(item => item.word === currentQuestion.word && item.zh === currentQuestion.answer);
+      if (!alreadyInPool) {
+        wrongPool.push({
+          word: currentQuestion.word,
+          zh: currentQuestion.answer,
+          pos: currentQuestion.pos
+        });
+      }
+    }
     button.classList.add('wrong');
     buttons.forEach(btn => {
       if (btn.textContent === currentQuestion.answer) {
@@ -123,14 +175,31 @@ function startSession() {
   correctCount = 0;
   totalAnswered = 0;
   currentIndex = 0;
+  wrongPool = [];
+  reviewQueue = [];
+  isReviewPhase = false;
+  pendingReviewStart = false;
   studyQueue = shuffle(vocabList).slice(0, Math.min(sessionTarget, vocabList.length));
   renderQuestion();
 }
 
 async function init() {
   try {
-    const response = await fetch('./data/vocab.json');
-    vocabList = await response.json();
+    const dataSources = ['./data/pt-vocab.json', './data/vocab.json'];
+    let loadedPath = '';
+
+    for (const source of dataSources) {
+      const response = await fetch(source, { cache: 'no-store' });
+      if (!response.ok) continue;
+
+      vocabList = await response.json();
+      loadedPath = source;
+      break;
+    }
+
+    if (!loadedPath) {
+      throw new Error(`词库文件未找到：${dataSources.join(' 或 ')}`);
+    }
 
     if (!Array.isArray(vocabList) || vocabList.length < 4) {
       throw new Error('词库数据不足');
@@ -143,7 +212,7 @@ async function init() {
     wordEl.textContent = '加载失败';
     posEl.textContent = '';
     choicesEl.innerHTML = '';
-    feedbackEl.textContent = '请检查 data/vocab.json 是否存在且格式正确。';
+    feedbackEl.textContent = '请检查 data/pt-vocab.json（兼容 data/vocab.json）是否存在且格式正确。';
     feedbackEl.className = 'feedback wrong';
     progressEl.textContent = '加载失败';
     console.error(error);
@@ -151,6 +220,12 @@ async function init() {
 }
 
 nextBtn.addEventListener('click', () => {
+  if (pendingReviewStart) {
+    pendingReviewStart = false;
+    currentIndex = 0;
+    renderQuestion();
+    return;
+  }
   currentIndex += 1;
   renderQuestion();
 });
