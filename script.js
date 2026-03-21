@@ -9,6 +9,7 @@ let wrongPool = [];
 let reviewQueue = [];
 let isReviewPhase = false;
 let pendingReviewStart = false;
+let reviewRound = 0;
 
 const wordEl = document.getElementById('word');
 const posEl = document.getElementById('pos');
@@ -42,7 +43,7 @@ function getWrongOptions(answer, count) {
 
 function updateStatus() {
   const activeQueue = isReviewPhase ? reviewQueue : studyQueue;
-  const phaseLabel = isReviewPhase ? '错词复习' : '本轮';
+  const phaseLabel = isReviewPhase ? `错词复习 第${reviewRound}轮` : '本轮';
   progressEl.textContent = `${phaseLabel} ${Math.min(currentIndex + 1, activeQueue.length)} / ${activeQueue.length} · 词库 ${vocabList.length} 词`;
   scoreEl.textContent = `答对 ${correctCount} / ${totalAnswered}`;
 }
@@ -52,19 +53,19 @@ function renderCompletion() {
   wordEl.textContent = '本轮完成';
   posEl.textContent = `你已经完成 ${studyQueue.length} 个单词。`;
   choicesEl.innerHTML = '';
-  feedbackEl.textContent = '可以重新设定数量，再开始一轮。';
+  feedbackEl.textContent = '已完成并全部答对。可以重新设定数量，再开始一轮。';
   feedbackEl.className = 'feedback correct';
   nextBtn.disabled = true;
   const finalQueue = isReviewPhase ? reviewQueue : studyQueue;
-  const phaseLabel = isReviewPhase ? '错词复习' : '本轮';
+  const phaseLabel = isReviewPhase ? `错词复习 第${reviewRound}轮` : '本轮';
   progressEl.textContent = `${phaseLabel} ${finalQueue.length} / ${finalQueue.length} · 词库 ${vocabList.length} 词`;
   scoreEl.textContent = `答对 ${correctCount} / ${totalAnswered}`;
 }
 
 function renderReviewTransition() {
   currentQuestion = null;
-  wordEl.textContent = '本轮完成';
-  posEl.textContent = `错词 ${reviewQueue.length} 个，准备复习。`;
+  wordEl.textContent = `第${reviewRound}轮错词复习`;
+  posEl.textContent = `仍有 ${reviewQueue.length} 个错词，继续练习直到全部答对。`;
   choicesEl.innerHTML = '';
   feedbackEl.textContent = '进入错词复习';
   feedbackEl.className = 'feedback wrong';
@@ -87,10 +88,12 @@ function renderQuestion() {
   const activeQueue = isReviewPhase ? reviewQueue : studyQueue;
 
   if (currentIndex >= activeQueue.length) {
-    if (!isReviewPhase && wrongPool.length > 0) {
+    if (wrongPool.length > 0) {
       reviewQueue = shuffle([...wrongPool]);
+      wrongPool = [];
       isReviewPhase = true;
       pendingReviewStart = true;
+      reviewRound += 1;
       currentIndex = 0;
       renderReviewTransition();
       return;
@@ -143,15 +146,13 @@ function handleAnswer(button, selected) {
     feedbackEl.textContent = '答对了。';
     feedbackEl.className = 'feedback correct';
   } else {
-    if (!isReviewPhase) {
-      const alreadyInPool = wrongPool.some(item => item.word === currentQuestion.word && item.zh === currentQuestion.answer);
-      if (!alreadyInPool) {
-        wrongPool.push({
-          word: currentQuestion.word,
-          zh: currentQuestion.answer,
-          pos: currentQuestion.pos
-        });
-      }
+    const alreadyInPool = wrongPool.some(item => item.word === currentQuestion.word && item.zh === currentQuestion.answer);
+    if (!alreadyInPool) {
+      wrongPool.push({
+        word: currentQuestion.word,
+        zh: currentQuestion.answer,
+        pos: currentQuestion.pos
+      });
     }
     button.classList.add('wrong');
     buttons.forEach(btn => {
@@ -179,6 +180,7 @@ function startSession() {
   reviewQueue = [];
   isReviewPhase = false;
   pendingReviewStart = false;
+  reviewRound = 0;
   studyQueue = shuffle(vocabList).slice(0, Math.min(sessionTarget, vocabList.length));
   renderQuestion();
 }
@@ -192,7 +194,12 @@ async function init() {
       const response = await fetch(source, { cache: 'no-store' });
       if (!response.ok) continue;
 
-      vocabList = await response.json();
+      const rawList = await response.json();
+      if (!Array.isArray(rawList)) continue;
+      vocabList = rawList.map(item => ({
+        ...item,
+        pos: item.pos || item.n || ''
+      }));
       loadedPath = source;
       break;
     }
