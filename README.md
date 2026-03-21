@@ -7,7 +7,7 @@ A simple static site for studying Portuguese vocabulary.
 - `index.html` — main page
 - `style.css` — styles
 - `script.js` — quiz logic
-- `data/vocab.json` — vocabulary data
+- `data/pt-vocab.json` — vocabulary data
 
 ## Current features
 
@@ -19,5 +19,5 @@ A simple static site for studying Portuguese vocabulary.
 
 1. Maintain the master vocabulary list in Excel.
 2. Send the updated Excel for JSON regeneration.
-3. Update `data/vocab.json` in GitHub.
+3. Update `data/pt-vocab.json` in GitHub.
 4. GitHub Pages publishes the latest version.
