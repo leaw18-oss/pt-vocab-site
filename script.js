@@ -129,7 +129,7 @@ function startSession() {
 
 async function init() {
   try {
-    const response = await fetch('./data/vocab.json');
+    const response = await fetch('./data/pt-vocab.json');
     vocabList = await response.json();
 
     if (!Array.isArray(vocabList) || vocabList.length < 4) {
@@ -143,7 +143,7 @@ async function init() {
     wordEl.textContent = '加载失败';
     posEl.textContent = '';
     choicesEl.innerHTML = '';
-    feedbackEl.textContent = '请检查 data/vocab.json 是否存在且格式正确。';
+    feedbackEl.textContent = '请检查 data/pt-vocab.json 是否存在且格式正确。';
     feedbackEl.className = 'feedback wrong';
     progressEl.textContent = '加载失败';
     console.error(error);
