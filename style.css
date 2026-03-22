@@ -19,7 +19,7 @@ body {
 
 .card {
   width: 100%;
-  max-width: 720px;
+  max-width: 760px;
   background: #ffffff;
   border-radius: 20px;
   padding: 24px;
@@ -39,12 +39,14 @@ body {
   color: #374151;
 }
 
-.settings-row input {
-  width: 88px;
+.settings-row input,
+.settings-row select {
+  width: 100px;
   padding: 10px 12px;
   border: 1px solid #d1d5db;
   border-radius: 12px;
   font-size: 1rem;
+  background: #fff;
 }
 
 .settings-row button {
@@ -173,7 +175,8 @@ body {
   }
 
   .settings-row input,
-  .settings-row button {
+  .settings-row button,
+  .settings-row select {
     width: 100%;
   }
 }
